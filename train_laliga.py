@@ -22,9 +22,9 @@ from sklearn.metrics import accuracy_score, log_loss, classification_report
 warnings.filterwarnings("ignore")
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = ROOT / "laliga_training" / "data"
+DATA_DIR = ROOT / "backend" / "data" / "laliga"
 MODEL_DIR = ROOT / "models"
-RAW_DIR = DATA_DIR / "raw"
+RAW_DIR = DATA_DIR
 PROCESSED_FILE = DATA_DIR / "laliga_processed.csv"
 MODEL_FILE = MODEL_DIR / "laliga_model.joblib"
 
