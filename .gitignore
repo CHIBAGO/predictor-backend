@@ -2,3 +2,7 @@ venv/
 .venv/
 __pycache__/
 .env
+*.zip
+*.backup*
+*_backup*
+ligue1_training/
