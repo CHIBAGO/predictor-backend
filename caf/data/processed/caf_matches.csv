@@ -1,0 +1,767 @@
+date,season,competition,stage,home_team,away_team,home_goals,away_goals,neutral,Match Result,travel_distance_km,altitude_difference_m,climate_zone,Result,Original Result
+2010-07-16,2010,CAF Champions League,Group Stage,ES Setif,Esperance de Tunis,0,1,False,Away Win,431.9,1086,Semi-Arid,A,A
+2010-07-18,2010,CAF Champions League,Group Stage,Dynamos,TP Mazembe,0,2,False,Away Win,786.0,240,Tropical,A,A
+2010-07-18,2010,CAF Champions League,Group Stage,Heartland,Al Ahly,1,1,False,Draw,3721.1,57,Tropical,D,D
+2010-07-18,2010,CAF Champions League,Group Stage,Ismaily,JS Kabylie,0,1,False,Away Win,2637.0,-245,Arid,A,A
+2010-07-31,2010,CAF Champions League,Group Stage,Esperance de Tunis,Dynamos,1,0,False,Home Win,6458.0,-1480,Mediterranean,H,H
+2010-07-31,2010,CAF Champions League,Group Stage,JS Kabylie,Heartland,1,0,False,Home Win,3469.0,170,Mediterranean,H,H
+2010-08-01,2010,CAF Champions League,Group Stage,TP Mazembe,ES Setif,2,2,False,Draw,5802.4,154,Tropical,D,D
+2010-08-01,2010,CAF Champions League,Group Stage,Al Ahly,Ismaily,2,1,False,Home Win,114.6,18,Arid,H,H
+2010-08-15,2010,CAF Champions League,Group Stage,Ismaily,Heartland,1,0,False,Home Win,3833.8,-75,Arid,H,H
+2010-08-15,2010,CAF Champions League,Group Stage,JS Kabylie,Al Ahly,1,0,False,Home Win,2570.0,227,Mediterranean,H,H
+2010-08-15,2010,CAF Champions League,Group Stage,TP Mazembe,Esperance de Tunis,2,1,False,Home Win,5685.2,1240,Tropical,H,H
+2010-08-15,2010,CAF Champions League,Group Stage,Dynamos,ES Setif,1,0,False,Home Win,6584.1,394,Tropical,H,H
+2010-08-27,2010,CAF Champions League,Group Stage,ES Setif,Dynamos,3,0,False,Home Win,6584.1,-394,Semi-Arid,H,H
+2010-08-28,2010,CAF Champions League,Group Stage,Esperance de Tunis,TP Mazembe,3,0,False,Home Win,5685.2,-1240,Mediterranean,H,H
+2010-08-28,2010,CAF Champions League,Group Stage,Al Ahly,JS Kabylie,1,1,False,Draw,2570.0,-227,Arid,D,D
+2010-08-29,2010,CAF Champions League,Group Stage,Heartland,Ismaily,2,1,False,Home Win,3833.8,75,Tropical,H,H
+2010-09-10,2010,CAF Champions League,Group Stage,JS Kabylie,Ismaily,1,0,False,Home Win,2637.0,245,Mediterranean,H,H
+2010-09-11,2010,CAF Champions League,Group Stage,Esperance de Tunis,ES Setif,2,2,False,Draw,431.9,-1086,Mediterranean,D,D
+2010-09-12,2010,CAF Champions League,Group Stage,TP Mazembe,Dynamos,2,1,False,Home Win,786.0,-240,Tropical,H,H
+2010-09-12,2010,CAF Champions League,Group Stage,Al Ahly,Heartland,2,1,False,Home Win,3721.1,-57,Arid,H,H
+2010-09-18,2010,CAF Champions League,Group Stage,Dynamos,Esperance de Tunis,0,1,False,Away Win,6458.0,1480,Tropical,A,A
+2010-09-18,2010,CAF Champions League,Group Stage,ES Setif,TP Mazembe,0,0,False,Draw,5802.4,-154,Semi-Arid,D,D
+2010-09-19,2010,CAF Champions League,Group Stage,Ismaily,Al Ahly,4,2,False,Home Win,114.6,-18,Arid,H,H
+2010-09-19,2010,CAF Champions League,Group Stage,Heartland,JS Kabylie,1,1,False,Draw,3469.0,-170,Tropical,D,D
+2010-10-03,2010,CAF Champions League,Semi-final,TP Mazembe,JS Kabylie,3,1,False,Home Win,5885.4,1000,Tropical,H,H
+2010-10-03,2010,CAF Champions League,Semi-final,Al Ahly,Esperance de Tunis,2,1,False,Home Win,2088.3,13,Arid,H,H
+2010-10-17,2010,CAF Champions League,Semi-final,JS Kabylie,TP Mazembe,0,0,False,Draw,5885.4,-1000,Mediterranean,D,D
+2010-10-17,2010,CAF Champions League,Semi-final,Esperance de Tunis,Al Ahly,1,0,False,Home Win,2088.3,-13,Mediterranean,H,H
+2010-10-31,2010,CAF Champions League,Final,TP Mazembe,Esperance de Tunis,5,0,False,Home Win,5685.2,1240,Tropical,H,H
+2010-11-13,2010,CAF Champions League,Final,Esperance de Tunis,TP Mazembe,1,1,False,Draw,5685.2,-1240,Mediterranean,D,D
+2011-07-16,2011,CAF Champions League,Group Stage,Raja Casablanca,Cotonsport,0,0,False,Draw,3507.7,-302,Mediterranean,D,D
+2011-07-16,2011,CAF Champions League,Group Stage,MC Alger,Esperance de Tunis,1,1,False,Draw,631.8,414,Mediterranean,D,D
+2011-07-17,2011,CAF Champions League,Group Stage,Enyimba,Al Hilal,2,2,False,Draw,2931.6,-325,Tropical,D,D
+2011-07-17,2011,CAF Champions League,Group Stage,Al Ahly,Wydad Casablanca,3,3,False,Draw,3669.2,-33,Arid,D,D
+2011-07-29,2011,CAF Champions League,Group Stage,Al Hilal,Raja Casablanca,1,0,False,Home Win,4492.9,324,Arid,H,H
+2011-07-30,2011,CAF Champions League,Group Stage,Cotonsport,Enyimba,2,3,False,Away Win,849.9,303,Tropical,A,A
+2011-07-30,2011,CAF Champions League,Group Stage,Esperance de Tunis,Al Ahly,1,0,False,Home Win,2088.3,-13,Mediterranean,H,H
+2011-07-30,2011,CAF Champions League,Group Stage,Wydad Casablanca,MC Alger,4,0,False,Home Win,1031.7,-368,Mediterranean,H,H
+2011-08-12,2011,CAF Champions League,Group Stage,Al Ahly,MC Alger,2,0,False,Home Win,2706.6,-401,Arid,H,H
+2011-08-14,2011,CAF Champions League,Group Stage,Al Hilal,Cotonsport,2,1,False,Home Win,2096.4,22,Arid,H,H
+2011-08-14,2011,CAF Champions League,Group Stage,Enyimba,Raja Casablanca,2,0,False,Home Win,3556.3,-1,Tropical,H,H
+2011-08-15,2011,CAF Champions League,Group Stage,Wydad Casablanca,Esperance de Tunis,2,2,False,Draw,1651.8,46,Mediterranean,D,D
+2011-08-27,2011,CAF Champions League,Group Stage,Raja Casablanca,Enyimba,0,0,False,Draw,3556.3,1,Mediterranean,D,D
+2011-08-27,2011,CAF Champions League,Group Stage,Esperance de Tunis,Wydad Casablanca,0,0,False,Draw,1651.8,-46,Mediterranean,D,D
+2011-08-28,2011,CAF Champions League,Group Stage,Cotonsport,Al Hilal,2,0,False,Home Win,2096.4,-22,Tropical,H,H
+2011-08-28,2011,CAF Champions League,Group Stage,MC Alger,Al Ahly,0,0,False,Draw,2706.6,401,Mediterranean,D,D
+2011-09-09,2011,CAF Champions League,Group Stage,Al Hilal,Enyimba,1,2,False,Away Win,2931.6,325,Arid,A,A
+2011-09-10,2011,CAF Champions League,Group Stage,Cotonsport,Raja Casablanca,2,1,False,Home Win,3507.7,302,Tropical,H,H
+2011-09-10,2011,CAF Champions League,Group Stage,Esperance de Tunis,MC Alger,4,0,False,Home Win,631.8,-414,Mediterranean,H,H
+2011-09-11,2011,CAF Champions League,Group Stage,Wydad Casablanca,Al Ahly,1,1,False,Draw,3669.2,33,Mediterranean,D,D
+2011-09-16,2011,CAF Champions League,Group Stage,Al Ahly,Esperance de Tunis,1,1,False,Draw,2088.3,13,Arid,D,D
+2011-09-16,2011,CAF Champions League,Group Stage,MC Alger,Wydad Casablanca,3,1,False,Home Win,1031.7,368,Mediterranean,H,H
+2011-09-18,2011,CAF Champions League,Group Stage,Enyimba,Cotonsport,2,0,False,Home Win,849.9,-303,Tropical,H,H
+2011-09-18,2011,CAF Champions League,Group Stage,Raja Casablanca,Al Hilal,0,0,False,Draw,4492.9,-324,Mediterranean,D,D
+2011-10-01,2011,CAF Champions League,Semi-final,Wydad Casablanca,Enyimba,1,0,False,Home Win,3556.3,1,Mediterranean,H,H
+2011-10-02,2011,CAF Champions League,Semi-final,Al Hilal,Esperance de Tunis,0,1,False,Away Win,3238.7,370,Arid,A,A
+2011-10-15,2011,CAF Champions League,Semi-final,Esperance de Tunis,Al Hilal,2,0,False,Home Win,3238.7,-370,Mediterranean,H,H
+2011-10-16,2011,CAF Champions League,Semi-final,Enyimba,Wydad Casablanca,0,0,False,Draw,3556.3,-1,Tropical,D,D
+2011-11-06,2011,CAF Champions League,Final,Wydad Casablanca,Esperance de Tunis,0,0,False,Draw,1651.8,46,Mediterranean,D,D
+2011-11-12,2011,CAF Champions League,Final,Esperance de Tunis,Wydad Casablanca,1,0,False,Home Win,1651.8,-46,Mediterranean,H,H
+2012-07-07,2012,CAF Champions League,Group Stage,Berekum Chelsea,Zamalek,3,2,False,Home Win,4329.9,287,Tropical,H,H
+2012-07-08,2012,CAF Champions League,Group Stage,Sunshine Stars,Esperance de Tunis,0,2,False,Away Win,3294.7,140,Tropical,A,A
+2012-07-08,2012,CAF Champions League,Group Stage,Al Ahly,TP Mazembe,2,1,False,Home Win,4657.0,-1227,Arid,H,H
+2012-07-17,2012,CAF Champions League,Group Stage,ASO Chlef,Sunshine Stars,1,2,False,Away Win,3208.9,-2,Semi-Arid,A,A
+2012-07-20,2012,CAF Champions League,Group Stage,Esperance de Tunis,ASO Chlef,3,2,False,Home Win,794.1,-138,Mediterranean,H,H
+2012-07-22,2012,CAF Champions League,Group Stage,TP Mazembe,Berekum Chelsea,2,2,False,Draw,3945.9,940,Tropical,D,D
+2012-07-22,2012,CAF Champions League,Group Stage,Zamalek,Al Ahly,0,1,False,Away Win,0.0,0,Arid,A,A
+2012-08-04,2012,CAF Champions League,Group Stage,TP Mazembe,Zamalek,2,0,False,Home Win,4657.0,1227,Tropical,H,H
+2012-08-04,2012,CAF Champions League,Group Stage,Al Ahly,Berekum Chelsea,4,1,False,Home Win,4329.9,-287,Arid,H,H
+2012-08-05,2012,CAF Champions League,Group Stage,Sunshine Stars,ASO Chlef,2,0,False,Home Win,3208.9,2,Tropical,H,H
+2012-08-19,2012,CAF Champions League,Group Stage,Zamalek,TP Mazembe,1,2,False,Away Win,4657.0,-1227,Arid,A,A
+2012-08-19,2012,CAF Champions League,Group Stage,Berekum Chelsea,Al Ahly,1,1,False,Draw,4329.9,287,Tropical,D,D
+2012-09-01,2012,CAF Champions League,Group Stage,Zamalek,Berekum Chelsea,1,1,False,Draw,4329.9,-287,Arid,D,D
+2012-09-02,2012,CAF Champions League,Group Stage,Esperance de Tunis,Sunshine Stars,1,0,False,Home Win,3294.7,-140,Mediterranean,H,H
+2012-09-02,2012,CAF Champions League,Group Stage,TP Mazembe,Al Ahly,2,0,False,Home Win,4657.0,1227,Tropical,H,H
+2012-09-14,2012,CAF Champions League,Group Stage,ASO Chlef,Esperance de Tunis,1,0,False,Home Win,794.1,138,Semi-Arid,H,H
+2012-09-16,2012,CAF Champions League,Group Stage,Berekum Chelsea,TP Mazembe,1,0,False,Home Win,3945.9,-940,Tropical,H,H
+2012-09-16,2012,CAF Champions League,Group Stage,Al Ahly,Zamalek,1,1,False,Draw,0.0,0,Arid,D,D
+2012-10-06,2012,CAF Champions League,Semi-final,Sunshine Stars,Al Ahly,3,3,False,Draw,3694.4,127,Tropical,D,D
+2012-10-07,2012,CAF Champions League,Semi-final,TP Mazembe,Esperance de Tunis,0,0,False,Draw,5685.2,1240,Tropical,D,D
+2012-10-20,2012,CAF Champions League,Semi-final,Esperance de Tunis,TP Mazembe,1,0,False,Home Win,5685.2,-1240,Mediterranean,H,H
+2012-10-21,2012,CAF Champions League,Semi-final,Al Ahly,Sunshine Stars,1,0,False,Home Win,3694.4,-127,Arid,H,H
+2012-11-04,2012,CAF Champions League,Final,Al Ahly,Esperance de Tunis,1,1,False,Draw,2088.3,13,Arid,D,D
+2012-11-17,2012,CAF Champions League,Final,Esperance de Tunis,Al Ahly,1,2,False,Away Win,2088.3,-13,Mediterranean,A,A
+2013-07-20,2013,CAF Champions League,Group Stage,Orlando Pirates,AC Leopards,0,0,False,Draw,2841.9,1423,Semi-Arid,D,D
+2013-07-21,2013,CAF Champions League,Group Stage,Recreativo Libolo,Esperance de Tunis,1,0,False,Home Win,5302.9,1090,Tropical,H,H
+2013-07-24,2013,CAF Champions League,Group Stage,Zamalek,Al Ahly,1,1,False,Draw,0.0,0,Arid,D,D
+2013-08-03,2013,CAF Champions League,Group Stage,Sewe Sport,Recreativo Libolo,3,1,False,Home Win,2731.8,-1080,Tropical,H,H
+2013-08-03,2013,CAF Champions League,Group Stage,Esperance de Tunis,Cotonsport,2,0,False,Home Win,3086.8,-348,Mediterranean,H,H
+2013-08-04,2013,CAF Champions League,Group Stage,AC Leopards,Zamalek,1,0,False,Home Win,4178.3,307,Tropical,H,H
+2013-08-04,2013,CAF Champions League,Group Stage,Al Ahly,Orlando Pirates,0,3,False,Away Win,6265.9,-1730,Arid,A,A
+2013-08-11,2013,CAF Champions League,Group Stage,Cotonsport,Sewe Sport,1,0,False,Home Win,2068.6,338,Tropical,H,H
+2013-08-17,2013,CAF Champions League,Group Stage,AC Leopards,Al Ahly,0,1,False,Away Win,4178.3,307,Tropical,A,A
+2013-08-17,2013,CAF Champions League,Group Stage,Orlando Pirates,Zamalek,4,1,False,Home Win,6265.9,1730,Semi-Arid,H,H
+2013-08-18,2013,CAF Champions League,Group Stage,Sewe Sport,Esperance de Tunis,0,1,False,Away Win,3784.8,10,Tropical,A,A
+2013-08-18,2013,CAF Champions League,Group Stage,Cotonsport,Recreativo Libolo,2,1,False,Home Win,2223.9,-742,Tropical,H,H
+2013-08-31,2013,CAF Champions League,Group Stage,Al Ahly,AC Leopards,2,1,False,Home Win,4178.3,-307,Arid,H,H
+2013-08-31,2013,CAF Champions League,Group Stage,Esperance de Tunis,Sewe Sport,1,0,False,Home Win,3784.8,-10,Mediterranean,H,H
+2013-09-01,2013,CAF Champions League,Group Stage,Zamalek,Orlando Pirates,2,1,False,Home Win,6265.9,-1730,Arid,H,H
+2013-09-01,2013,CAF Champions League,Group Stage,Recreativo Libolo,Cotonsport,1,1,False,Draw,2223.9,742,Tropical,D,D
+2013-09-14,2013,CAF Champions League,Group Stage,AC Leopards,Orlando Pirates,1,0,False,Home Win,2841.9,-1423,Tropical,H,H
+2013-09-14,2013,CAF Champions League,Group Stage,Esperance de Tunis,Recreativo Libolo,3,2,False,Home Win,5302.9,-1090,Mediterranean,H,H
+2013-09-15,2013,CAF Champions League,Group Stage,Al Ahly,Zamalek,4,2,False,Home Win,0.0,0,Arid,H,H
+2013-09-15,2013,CAF Champions League,Group Stage,Sewe Sport,Cotonsport,0,0,False,Draw,2068.6,-338,Tropical,D,D
+2013-09-21,2013,CAF Champions League,Group Stage,Cotonsport,Esperance de Tunis,1,2,False,Away Win,3086.8,348,Tropical,A,A
+2013-09-21,2013,CAF Champions League,Group Stage,Recreativo Libolo,Sewe Sport,2,2,False,Draw,2731.8,1080,Tropical,D,D
+2013-09-22,2013,CAF Champions League,Group Stage,Zamalek,AC Leopards,4,1,False,Home Win,4178.3,-307,Arid,H,H
+2013-09-22,2013,CAF Champions League,Group Stage,Orlando Pirates,Al Ahly,0,0,False,Draw,6265.9,1730,Semi-Arid,D,D
+2013-10-05,2013,CAF Champions League,Semi-final,Orlando Pirates,Esperance de Tunis,0,0,False,Draw,7251.8,1743,Semi-Arid,D,D
+2013-10-06,2013,CAF Champions League,Semi-final,Cotonsport,Al Ahly,1,1,False,Draw,2902.2,335,Tropical,D,D
+2013-10-19,2013,CAF Champions League,Semi-final,Esperance de Tunis,Orlando Pirates,1,1,False,Draw,7251.8,-1743,Mediterranean,D,D
+2013-10-20,2013,CAF Champions League,Semi-final,Al Ahly,Cotonsport,1,1,False,Draw,2902.2,-335,Arid,D,D
+2013-11-02,2013,CAF Champions League,Final,Orlando Pirates,Al Ahly,1,1,False,Draw,6265.9,1730,Semi-Arid,D,D
+2013-11-10,2013,CAF Champions League,Final,Al Ahly,Orlando Pirates,2,0,False,Home Win,6265.9,-1730,Arid,H,H
+2014-05-16,2014,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,1,0,False,Home Win,3071.6,-870,Arid,H,H
+2014-05-17,2014,CAF Champions League,Group Stage,Esperance de Tunis,ES Setif,1,2,False,Away Win,431.9,-1086,Mediterranean,A,A
+2014-05-18,2014,CAF Champions League,Group Stage,AS Vita Club,Zamalek,2,1,False,Home Win,4183.6,297,Tropical,H,H
+2014-05-18,2014,CAF Champions League,Group Stage,CS Sfaxien,Al Ahly Benghazi,3,1,False,Home Win,911.1,-32,Mediterranean,H,H
+2014-05-24,2014,CAF Champions League,Group Stage,Al Ahly Benghazi,Esperance de Tunis,3,2,False,Home Win,1044.8,37,Arid,H,H
+2014-05-24,2014,CAF Champions League,Group Stage,Zamalek,Al Hilal,2,1,False,Home Win,1624.7,-357,Arid,H,H
+2014-05-25,2014,CAF Champions League,Group Stage,TP Mazembe,AS Vita Club,1,0,False,Home Win,1566.4,930,Tropical,H,H
+2014-05-25,2014,CAF Champions League,Group Stage,ES Setif,CS Sfaxien,1,1,False,Draw,510.5,1081,Semi-Arid,D,D
+2014-06-06,2014,CAF Champions League,Group Stage,Al Hilal,AS Vita Club,1,1,False,Draw,2909.4,60,Arid,D,D
+2014-06-07,2014,CAF Champions League,Group Stage,ES Setif,Al Ahly Benghazi,1,1,False,Draw,1420.9,1049,Semi-Arid,D,D
+2014-06-08,2014,CAF Champions League,Group Stage,TP Mazembe,Zamalek,1,0,False,Home Win,4657.0,1227,Tropical,H,H
+2014-06-08,2014,CAF Champions League,Group Stage,Esperance de Tunis,CS Sfaxien,2,1,False,Home Win,235.6,-5,Mediterranean,H,H
+2014-07-25,2014,CAF Champions League,Group Stage,Al Ahly Benghazi,ES Setif,0,2,False,Away Win,1420.9,-1049,Arid,A,A
+2014-07-26,2014,CAF Champions League,Group Stage,CS Sfaxien,Esperance de Tunis,1,0,False,Home Win,235.6,5,Mediterranean,H,H
+2014-07-27,2014,CAF Champions League,Group Stage,AS Vita Club,Al Hilal,2,1,False,Home Win,2909.4,-60,Tropical,H,H
+2014-07-27,2014,CAF Champions League,Group Stage,Zamalek,TP Mazembe,0,0,False,Draw,4657.0,-1227,Arid,D,D
+2014-08-08,2014,CAF Champions League,Group Stage,Al Ahly Benghazi,CS Sfaxien,0,1,False,Away Win,911.1,32,Arid,A,A
+2014-08-09,2014,CAF Champions League,Group Stage,ES Setif,Esperance de Tunis,2,2,False,Draw,431.9,1086,Semi-Arid,D,D
+2014-08-10,2014,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,3,1,False,Home Win,3071.6,870,Tropical,H,H
+2014-08-10,2014,CAF Champions League,Group Stage,Zamalek,AS Vita Club,0,1,False,Away Win,4183.6,-297,Arid,A,A
+2014-08-22,2014,CAF Champions League,Group Stage,Al Hilal,Zamalek,2,1,False,Home Win,1624.7,357,Arid,H,H
+2014-08-23,2014,CAF Champions League,Group Stage,CS Sfaxien,ES Setif,1,1,False,Draw,510.5,-1081,Mediterranean,D,D
+2014-08-24,2014,CAF Champions League,Group Stage,AS Vita Club,TP Mazembe,0,0,False,Draw,1566.4,-930,Tropical,D,D
+2014-08-24,2014,CAF Champions League,Group Stage,Esperance de Tunis,Al Ahly Benghazi,1,0,False,Home Win,1044.8,-37,Mediterranean,H,H
+2014-09-20,2014,CAF Champions League,Semi-final,ES Setif,TP Mazembe,2,1,False,Home Win,5802.4,-154,Semi-Arid,H,H
+2014-09-21,2014,CAF Champions League,Semi-final,AS Vita Club,CS Sfaxien,2,1,False,Home Win,4370.8,305,Tropical,H,H
+2014-09-27,2014,CAF Champions League,Semi-final,CS Sfaxien,AS Vita Club,1,2,False,Away Win,4370.8,-305,Mediterranean,A,A
+2014-09-28,2014,CAF Champions League,Semi-final,TP Mazembe,ES Setif,3,2,False,Home Win,5802.4,154,Tropical,H,H
+2014-10-26,2014,CAF Champions League,Final,AS Vita Club,ES Setif,2,2,False,Draw,4622.3,-776,Tropical,D,D
+2014-11-01,2014,CAF Champions League,Final,ES Setif,AS Vita Club,1,1,False,Draw,4622.3,776,Semi-Arid,D,D
+2015-06-26,2015,CAF Champions League,Group Stage,Al Merreikh,MC El Eulma,2,0,False,Home Win,3514.0,-580,Arid,H,H
+2015-06-27,2015,CAF Champions League,Group Stage,ES Setif,USM Alger,1,2,False,Away Win,216.6,672,Semi-Arid,A,A
+2015-06-28,2015,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,0,0,False,Draw,3071.6,870,Tropical,D,D
+2015-06-28,2015,CAF Champions League,Group Stage,Smouha,MA Tetouan,3,2,False,Home Win,3297.1,5,Arid,H,H
+2015-07-10,2015,CAF Champions League,Group Stage,USM Alger,Al Merreikh,1,0,False,Home Win,3745.0,44,Mediterranean,H,H
+2015-07-11,2015,CAF Champions League,Group Stage,MC El Eulma,ES Setif,0,1,False,Away Win,24.9,-136,Semi-Arid,A,A
+2015-07-12,2015,CAF Champions League,Group Stage,Al Hilal,Smouha,2,0,False,Home Win,1767.3,370,Arid,H,H
+2015-07-12,2015,CAF Champions League,Group Stage,MA Tetouan,TP Mazembe,0,0,False,Draw,6285.2,-1245,Mediterranean,D,D
+2015-07-24,2015,CAF Champions League,Group Stage,USM Alger,MC El Eulma,2,1,False,Home Win,241.3,-536,Mediterranean,H,H
+2015-07-24,2015,CAF Champions League,Group Stage,Smouha,TP Mazembe,0,2,False,Away Win,4775.0,-1240,Arid,A,A
+2015-07-25,2015,CAF Champions League,Group Stage,ES Setif,Al Merreikh,1,1,False,Draw,3536.8,716,Semi-Arid,D,D
+2015-07-26,2015,CAF Champions League,Group Stage,MA Tetouan,Al Hilal,1,1,False,Draw,4371.5,-375,Mediterranean,D,D
+2015-08-07,2015,CAF Champions League,Group Stage,Al Hilal,MA Tetouan,0,1,False,Away Win,4371.5,375,Arid,A,A
+2015-08-07,2015,CAF Champions League,Group Stage,MC El Eulma,USM Alger,0,1,False,Away Win,241.3,536,Semi-Arid,A,A
+2015-08-08,2015,CAF Champions League,Group Stage,TP Mazembe,Smouha,1,0,False,Home Win,4775.0,1240,Tropical,H,H
+2015-08-09,2015,CAF Champions League,Group Stage,Al Merreikh,ES Setif,2,0,False,Home Win,3536.8,-716,Arid,H,H
+2015-08-21,2015,CAF Champions League,Group Stage,USM Alger,ES Setif,3,0,False,Home Win,216.6,-672,Mediterranean,H,H
+2015-08-22,2015,CAF Champions League,Group Stage,MC El Eulma,Al Merreikh,2,3,False,Away Win,3514.0,580,Semi-Arid,A,A
+2015-08-23,2015,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,1,0,False,Home Win,3071.6,-870,Arid,H,H
+2015-08-23,2015,CAF Champions League,Group Stage,MA Tetouan,Smouha,2,1,False,Home Win,3297.1,-5,Mediterranean,H,H
+2015-09-11,2015,CAF Champions League,Group Stage,ES Setif,MC El Eulma,2,2,False,Draw,24.9,136,Semi-Arid,D,D
+2015-09-11,2015,CAF Champions League,Group Stage,Al Merreikh,USM Alger,1,0,False,Home Win,3745.0,-44,Arid,H,H
+2015-09-12,2015,CAF Champions League,Group Stage,Smouha,Al Hilal,1,1,False,Draw,1767.3,-370,Arid,D,D
+2015-09-12,2015,CAF Champions League,Group Stage,TP Mazembe,MA Tetouan,5,0,False,Home Win,6285.2,1245,Tropical,H,H
+2015-09-26,2015,CAF Champions League,Semi-final,Al Merreikh,TP Mazembe,2,1,False,Home Win,3071.6,-870,Arid,H,H
+2015-09-27,2015,CAF Champions League,Semi-final,Al Hilal,USM Alger,1,2,False,Away Win,3745.0,-44,Arid,A,A
+2015-10-03,2015,CAF Champions League,Semi-final,USM Alger,Al Hilal,0,0,False,Draw,3745.0,44,Mediterranean,D,D
+2015-10-04,2015,CAF Champions League,Semi-final,TP Mazembe,Al Merreikh,3,0,False,Home Win,3071.6,870,Tropical,H,H
+2015-10-31,2015,CAF Champions League,Final,USM Alger,TP Mazembe,1,2,False,Away Win,5956.3,-826,Mediterranean,A,A
+2015-11-08,2015,CAF Champions League,Final,TP Mazembe,USM Alger,2,0,False,Home Win,5956.3,826,Tropical,H,H
+2016-06-18,2016,CAF Champions League,Group Stage,ASEC Mimosas,Wydad Casablanca,0,1,False,Away Win,3160.1,-36,Tropical,A,A
+2016-06-18,2016,CAF Champions League,Group Stage,Zesco United,Al Ahly,3,2,False,Home Win,4777.5,1257,Tropical,H,H
+2016-06-19,2016,CAF Champions League,Group Stage,Enyimba,Zamalek,0,1,False,Away Win,3705.0,32,Tropical,A,A
+2016-06-28,2016,CAF Champions League,Group Stage,Al Ahly,ASEC Mimosas,1,2,False,Away Win,4602.0,3,Arid,A,A
+2016-06-29,2016,CAF Champions League,Group Stage,Wydad Casablanca,Zesco United,2,0,False,Home Win,6400.5,-1224,Mediterranean,H,H
+2016-06-29,2016,CAF Champions League,Group Stage,Mamelodi Sundowns,Enyimba,2,1,False,Home Win,4063.4,1285,Semi-Arid,H,H
+2016-07-16,2016,CAF Champions League,Group Stage,Zesco United,ASEC Mimosas,3,1,False,Home Win,4092.9,1260,Tropical,H,H
+2016-07-16,2016,CAF Champions League,Group Stage,Al Ahly,Wydad Casablanca,0,0,False,Draw,3669.2,-33,Arid,D,D
+2016-07-17,2016,CAF Champions League,Group Stage,Zamalek,Mamelodi Sundowns,1,2,False,Away Win,6214.2,-1317,Arid,A,A
+2016-07-27,2016,CAF Champions League,Group Stage,ASEC Mimosas,Zesco United,1,1,False,Draw,4092.9,-1260,Tropical,D,D
+2016-07-27,2016,CAF Champions League,Group Stage,Wydad Casablanca,Al Ahly,0,1,False,Away Win,3669.2,33,Mediterranean,A,A
+2016-07-27,2016,CAF Champions League,Group Stage,Mamelodi Sundowns,Zamalek,1,0,False,Home Win,6214.2,1317,Semi-Arid,H,H
+2016-08-12,2016,CAF Champions League,Group Stage,Al Ahly,Zesco United,2,2,False,Draw,4777.5,-1257,Arid,D,D
+2016-08-14,2016,CAF Champions League,Group Stage,Wydad Casablanca,ASEC Mimosas,2,1,False,Home Win,3160.1,36,Mediterranean,H,H
+2016-08-15,2016,CAF Champions League,Group Stage,Zamalek,Enyimba,1,0,False,Home Win,3705.0,-32,Arid,H,H
+2016-08-23,2016,CAF Champions League,Group Stage,Enyimba,Mamelodi Sundowns,3,1,False,Home Win,4063.4,-1285,Tropical,H,H
+2016-08-24,2016,CAF Champions League,Group Stage,Zesco United,Wydad Casablanca,1,1,False,Draw,6400.5,1224,Tropical,D,D
+2016-08-24,2016,CAF Champions League,Group Stage,ASEC Mimosas,Al Ahly,0,0,False,Draw,4602.0,-3,Tropical,D,D
+2016-09-16,2016,CAF Champions League,Semi-final,Zamalek,Wydad Casablanca,4,0,False,Home Win,3669.2,-33,Arid,H,H
+2016-09-17,2016,CAF Champions League,Semi-final,Zesco United,Mamelodi Sundowns,2,1,False,Home Win,1439.5,-60,Tropical,H,H
+2016-09-24,2016,CAF Champions League,Semi-final,Wydad Casablanca,Zamalek,5,2,False,Home Win,3669.2,33,Mediterranean,H,H
+2016-09-24,2016,CAF Champions League,Semi-final,Mamelodi Sundowns,Zesco United,2,0,False,Home Win,1439.5,60,Semi-Arid,H,H
+2016-10-15,2016,CAF Champions League,Final,Mamelodi Sundowns,Zamalek,3,0,False,Home Win,6214.2,1317,Semi-Arid,H,H
+2016-10-23,2016,CAF Champions League,Final,Zamalek,Mamelodi Sundowns,1,0,False,Home Win,6214.2,-1317,Arid,H,H
+2017-05-12,2017,CAF Champions League,Group Stage,Esperance de Tunis,AS Vita Club,3,1,False,Home Win,4605.4,-310,Mediterranean,H,H
+2017-05-12,2017,CAF Champions League,Group Stage,Zamalek,CAPS United,2,0,False,Home Win,5325.4,-1467,Arid,H,H
+2017-05-12,2017,CAF Champions League,Group Stage,Wydad Casablanca,Cotonsport,2,0,False,Home Win,3507.7,-302,Mediterranean,H,H
+2017-05-12,2017,CAF Champions League,Group Stage,Al Hilal,Al Merreikh,1,1,False,Draw,0.0,0,Arid,D,D
+2017-05-12,2017,CAF Champions League,Group Stage,Etoile du Sahel,Ferroviario Beira,5,0,False,Home Win,6694.2,10,Mediterranean,H,H
+2017-05-12,2017,CAF Champions League,Group Stage,USM Alger,Al Ahly,3,0,False,Home Win,2706.6,401,Mediterranean,H,H
+2017-05-13,2017,CAF Champions League,Group Stage,Mamelodi Sundowns,Saint George,0,0,False,Draw,4028.9,-1015,Semi-Arid,D,D
+2017-05-13,2017,CAF Champions League,Group Stage,Al Ahly,Zanaco,0,0,False,Draw,5067.0,-1256,Arid,D,D
+2017-05-23,2017,CAF Champions League,Group Stage,Ferroviario Beira,Al Hilal,0,0,False,Draw,3938.0,-370,Tropical,D,D
+2017-05-23,2017,CAF Champions League,Group Stage,Al Merreikh,Etoile du Sahel,1,2,False,Away Win,3136.6,360,Arid,A,A
+2017-05-23,2017,CAF Champions League,Group Stage,Al Ahly,Zamalek,0,0,False,Draw,0.0,0,Arid,D,D
+2017-05-23,2017,CAF Champions League,Group Stage,Saint George,Esperance de Tunis,0,0,False,Draw,4223.4,2345,Tropical Highland,D,D
+2017-05-23,2017,CAF Champions League,Group Stage,Cotonsport,Al Ahly,0,2,False,Away Win,2902.2,335,Tropical,A,A
+2017-05-24,2017,CAF Champions League,Group Stage,Zanaco,Wydad Casablanca,1,0,False,Home Win,6643.4,1223,Tropical,H,H
+2017-05-24,2017,CAF Champions League,Group Stage,CAPS United,USM Alger,2,1,False,Home Win,6740.1,1066,Tropical,H,H
+2017-05-24,2017,CAF Champions League,Group Stage,AS Vita Club,Mamelodi Sundowns,1,3,False,Away Win,2750.3,-1020,Tropical,A,A
+2017-06-02,2017,CAF Champions League,Group Stage,Mamelodi Sundowns,Esperance de Tunis,1,2,False,Away Win,7207.9,1330,Semi-Arid,A,A
+2017-06-02,2017,CAF Champions League,Group Stage,Zamalek,USM Alger,1,1,False,Draw,2706.6,-401,Arid,D,D
+2017-06-02,2017,CAF Champions League,Group Stage,CAPS United,Al Ahly,2,4,False,Away Win,5325.4,1467,Tropical,A,A
+2017-06-03,2017,CAF Champions League,Group Stage,Ferroviario Beira,Al Merreikh,1,0,False,Home Win,3938.0,-370,Tropical,H,H
+2017-06-03,2017,CAF Champions League,Group Stage,Etoile du Sahel,Al Hilal,1,1,False,Draw,3136.6,-360,Mediterranean,D,D
+2017-06-03,2017,CAF Champions League,Group Stage,Zanaco,Cotonsport,2,1,False,Home Win,3149.7,921,Tropical,H,H
+2017-06-04,2017,CAF Champions League,Group Stage,Saint George,AS Vita Club,1,0,False,Home Win,2991.9,2035,Tropical Highland,H,H
+2017-06-04,2017,CAF Champions League,Group Stage,Al Ahly,Wydad Casablanca,2,0,False,Home Win,3669.2,-33,Arid,H,H
+2017-06-20,2017,CAF Champions League,Group Stage,Al Merreikh,Ferroviario Beira,2,1,False,Home Win,3938.0,370,Arid,H,H
+2017-06-20,2017,CAF Champions League,Group Stage,AS Vita Club,Saint George,2,1,False,Home Win,2991.9,-2035,Tropical,H,H
+2017-06-20,2017,CAF Champions League,Group Stage,Wydad Casablanca,Al Ahly,2,0,False,Home Win,3669.2,33,Mediterranean,H,H
+2017-06-21,2017,CAF Champions League,Group Stage,Cotonsport,Zanaco,0,1,False,Away Win,3149.7,-921,Tropical,A,A
+2017-06-21,2017,CAF Champions League,Group Stage,Esperance de Tunis,Mamelodi Sundowns,0,0,False,Draw,7207.9,-1330,Mediterranean,D,D
+2017-06-21,2017,CAF Champions League,Group Stage,USM Alger,Zamalek,2,0,False,Home Win,2706.6,401,Mediterranean,H,H
+2017-06-21,2017,CAF Champions League,Group Stage,Al Ahly,CAPS United,4,2,False,Home Win,5325.4,-1467,Arid,H,H
+2017-06-21,2017,CAF Champions League,Group Stage,Al Hilal,Etoile du Sahel,1,1,False,Draw,3136.6,360,Arid,D,D
+2017-06-30,2017,CAF Champions League,Group Stage,Al Merreikh,Al Hilal,2,1,False,Home Win,0.0,0,Arid,H,H
+2017-06-30,2017,CAF Champions League,Group Stage,Al Ahly,USM Alger,1,1,False,Draw,2706.6,-401,Arid,D,D
+2017-07-01,2017,CAF Champions League,Group Stage,Ferroviario Beira,Etoile du Sahel,1,1,False,Draw,6694.2,-10,Tropical,D,D
+2017-07-01,2017,CAF Champions League,Group Stage,Saint George,Mamelodi Sundowns,0,1,False,Away Win,4028.9,1015,Tropical Highland,A,A
+2017-07-01,2017,CAF Champions League,Group Stage,AS Vita Club,Esperance de Tunis,2,2,False,Draw,4605.4,310,Tropical,D,D
+2017-07-01,2017,CAF Champions League,Group Stage,Zanaco,Al Ahly,0,0,False,Draw,5067.0,1256,Tropical,D,D
+2017-07-01,2017,CAF Champions League,Group Stage,Cotonsport,Wydad Casablanca,0,2,False,Away Win,3507.7,302,Tropical,A,A
+2017-07-02,2017,CAF Champions League,Group Stage,CAPS United,Zamalek,3,1,False,Home Win,5325.4,1467,Tropical,H,H
+2017-07-07,2017,CAF Champions League,Group Stage,Etoile du Sahel,Al Merreikh,3,0,False,Home Win,3136.6,-360,Mediterranean,H,H
+2017-07-07,2017,CAF Champions League,Group Stage,Al Hilal,Ferroviario Beira,0,3,False,Away Win,3938.0,370,Arid,A,A
+2017-07-08,2017,CAF Champions League,Group Stage,Al Ahly,Cotonsport,3,1,False,Home Win,2902.2,-335,Arid,H,H
+2017-07-08,2017,CAF Champions League,Group Stage,Wydad Casablanca,Zanaco,1,0,False,Home Win,6643.4,-1223,Mediterranean,H,H
+2017-07-09,2017,CAF Champions League,Group Stage,USM Alger,CAPS United,4,1,False,Home Win,6740.1,-1066,Mediterranean,H,H
+2017-07-09,2017,CAF Champions League,Group Stage,Zamalek,Al Ahly,2,2,False,Draw,0.0,0,Arid,D,D
+2017-07-09,2017,CAF Champions League,Group Stage,Esperance de Tunis,Saint George,4,0,False,Home Win,4223.4,-2345,Mediterranean,H,H
+2017-07-09,2017,CAF Champions League,Group Stage,Mamelodi Sundowns,AS Vita Club,1,1,False,Draw,2750.3,1020,Semi-Arid,D,D
+2017-09-16,2017,CAF Champions League,Quarter-final,Ferroviario Beira,USM Alger,1,1,False,Draw,7119.5,-414,Tropical,D,D
+2017-09-16,2017,CAF Champions League,Quarter-final,Al Ahly,Esperance de Tunis,2,2,False,Draw,2088.3,13,Arid,D,D
+2017-09-17,2017,CAF Champions League,Quarter-final,Mamelodi Sundowns,Wydad Casablanca,1,0,False,Home Win,7604.6,1284,Semi-Arid,H,H
+2017-09-17,2017,CAF Champions League,Quarter-final,Al Ahly Tripoli,Etoile du Sahel,0,0,False,Draw,400.2,27,Arid,D,D
+2017-09-23,2017,CAF Champions League,Quarter-final,Esperance de Tunis,Al Ahly,1,2,False,Away Win,2088.3,-13,Mediterranean,A,A
+2017-09-23,2017,CAF Champions League,Quarter-final,USM Alger,Ferroviario Beira,0,0,False,Draw,7119.5,414,Mediterranean,D,D
+2017-09-24,2017,CAF Champions League,Quarter-final,Wydad Casablanca,Mamelodi Sundowns,1,0,False,Home Win,7604.6,-1284,Mediterranean,H,H
+2017-09-24,2017,CAF Champions League,Quarter-final,Etoile du Sahel,Al Ahly Tripoli,2,0,False,Home Win,400.2,-27,Mediterranean,H,H
+2017-09-29,2017,CAF Champions League,Semi-final,USM Alger,Wydad Casablanca,0,0,False,Draw,1031.7,368,Mediterranean,D,D
+2017-10-01,2017,CAF Champions League,Semi-final,Etoile du Sahel,Al Ahly,2,1,False,Home Win,2022.9,-3,Mediterranean,H,H
+2017-10-21,2017,CAF Champions League,Semi-final,Wydad Casablanca,USM Alger,3,1,False,Home Win,1031.7,-368,Mediterranean,H,H
+2017-10-22,2017,CAF Champions League,Semi-final,Al Ahly,Etoile du Sahel,6,2,False,Home Win,2022.9,3,Arid,H,H
+2017-10-28,2017,CAF Champions League,Final,Al Ahly,Wydad Casablanca,1,1,False,Draw,3669.2,-33,Arid,D,D
+2017-11-04,2017,CAF Champions League,Final,Wydad Casablanca,Al Ahly,1,0,False,Home Win,3669.2,33,Mediterranean,H,H
+2018-05-04,2018,CAF Champions League,Group Stage,Township Rollers,KCCA,1,0,False,Home Win,2871.5,-190,Semi-Arid,H,H
+2018-05-04,2018,CAF Champions League,Group Stage,MC Alger,DH El Jadida,1,1,False,Draw,1124.4,389,Mediterranean,D,D
+2018-05-04,2018,CAF Champions League,Group Stage,Al Ahly,Esperance de Tunis,0,0,False,Draw,2088.3,13,Arid,D,D
+2018-05-05,2018,CAF Champions League,Group Stage,TP Mazembe,ES Setif,4,1,False,Home Win,5802.4,154,Tropical,H,H
+2018-05-05,2018,CAF Champions League,Group Stage,Togo-Port,Horoya AC,1,2,False,Away Win,1674.7,-20,Tropical,A,A
+2018-05-05,2018,CAF Champions League,Group Stage,Mamelodi Sundowns,Wydad Casablanca,1,1,False,Draw,7604.6,1284,Semi-Arid,D,D
+2018-05-05,2018,CAF Champions League,Group Stage,Zesco United,Mbabane Swallows,1,1,False,Draw,1532.2,120,Tropical,D,D
+2018-05-05,2018,CAF Champions League,Group Stage,Primeiro de Agosto,Etoile du Sahel,1,1,False,Draw,4973.6,40,Tropical,D,D
+2018-05-15,2018,CAF Champions League,Group Stage,Mbabane Swallows,Primeiro de Agosto,1,0,False,Home Win,2708.4,1100,Subtropical,H,H
+2018-05-15,2018,CAF Champions League,Group Stage,Wydad Casablanca,Togo-Port,3,0,False,Home Win,3183.0,46,Mediterranean,H,H
+2018-05-15,2018,CAF Champions League,Group Stage,ES Setif,MC Alger,0,1,False,Away Win,216.6,672,Semi-Arid,A,A
+2018-05-15,2018,CAF Champions League,Group Stage,DH El Jadida,TP Mazembe,0,2,False,Away Win,6280.9,-1215,Mediterranean,A,A
+2018-05-15,2018,CAF Champions League,Group Stage,Esperance de Tunis,Township Rollers,4,1,False,Home Win,7030.1,-1000,Mediterranean,H,H
+2018-05-15,2018,CAF Champions League,Group Stage,KCCA,Al Ahly,2,0,False,Home Win,3307.2,1177,Tropical,H,H
+2018-05-16,2018,CAF Champions League,Group Stage,Etoile du Sahel,Zesco United,2,1,False,Home Win,5714.1,-1260,Mediterranean,H,H
+2018-05-22,2018,CAF Champions League,Group Stage,Horoya AC,Mamelodi Sundowns,2,2,False,Draw,5993.8,-1310,Tropical,D,D
+2018-07-17,2018,CAF Champions League,Group Stage,Mbabane Swallows,Etoile du Sahel,0,3,False,Away Win,7236.0,1140,Subtropical,A,A
+2018-07-17,2018,CAF Champions League,Group Stage,Horoya AC,Wydad Casablanca,1,1,False,Draw,2730.7,-26,Tropical,D,D
+2018-07-17,2018,CAF Champions League,Group Stage,Togo-Port,Mamelodi Sundowns,1,0,False,Home Win,4591.3,-1330,Tropical,H,H
+2018-07-17,2018,CAF Champions League,Group Stage,Zesco United,Primeiro de Agosto,0,0,False,Draw,1693.8,1220,Tropical,D,D
+2018-07-17,2018,CAF Champions League,Group Stage,TP Mazembe,MC Alger,1,0,False,Home Win,5956.3,826,Tropical,H,H
+2018-07-17,2018,CAF Champions League,Group Stage,Esperance de Tunis,KCCA,3,2,False,Home Win,4663.3,-1190,Mediterranean,H,H
+2018-07-17,2018,CAF Champions League,Group Stage,Al Ahly,Township Rollers,3,0,False,Home Win,6110.8,-987,Arid,H,H
+2018-07-17,2018,CAF Champions League,Group Stage,ES Setif,DH El Jadida,2,1,False,Home Win,1312.1,1061,Semi-Arid,H,H
+2018-07-27,2018,CAF Champions League,Group Stage,Etoile du Sahel,Mbabane Swallows,2,0,False,Home Win,7236.0,-1140,Mediterranean,H,H
+2018-07-27,2018,CAF Champions League,Group Stage,Primeiro de Agosto,Zesco United,2,1,False,Home Win,1693.8,-1220,Tropical,H,H
+2018-07-27,2018,CAF Champions League,Group Stage,Mamelodi Sundowns,Togo-Port,2,1,False,Home Win,4591.3,1330,Semi-Arid,H,H
+2018-07-27,2018,CAF Champions League,Group Stage,DH El Jadida,ES Setif,1,1,False,Draw,1312.1,-1061,Mediterranean,D,D
+2018-07-28,2018,CAF Champions League,Group Stage,KCCA,Esperance de Tunis,0,1,False,Away Win,4663.3,1190,Tropical,A,A
+2018-07-28,2018,CAF Champions League,Group Stage,Township Rollers,Al Ahly,0,1,False,Away Win,6110.8,987,Semi-Arid,A,A
+2018-07-28,2018,CAF Champions League,Group Stage,MC Alger,TP Mazembe,1,1,False,Draw,5956.3,-826,Mediterranean,D,D
+2018-07-28,2018,CAF Champions League,Group Stage,Wydad Casablanca,Horoya AC,2,0,False,Home Win,2730.7,26,Mediterranean,H,H
+2018-08-17,2018,CAF Champions League,Group Stage,Esperance de Tunis,Al Ahly,0,1,False,Away Win,2088.3,-13,Mediterranean,A,A
+2018-08-17,2018,CAF Champions League,Group Stage,ES Setif,TP Mazembe,1,1,False,Draw,5802.4,-154,Semi-Arid,D,D
+2018-08-17,2018,CAF Champions League,Group Stage,Horoya AC,Togo-Port,2,1,False,Home Win,1674.7,20,Tropical,H,H
+2018-08-17,2018,CAF Champions League,Group Stage,Wydad Casablanca,Mamelodi Sundowns,1,0,False,Home Win,7604.6,-1284,Mediterranean,H,H
+2018-08-18,2018,CAF Champions League,Group Stage,Etoile du Sahel,Primeiro de Agosto,1,1,False,Draw,4973.6,-40,Mediterranean,D,D
+2018-08-18,2018,CAF Champions League,Group Stage,Mbabane Swallows,Zesco United,0,3,False,Away Win,1532.2,-120,Subtropical,A,A
+2018-08-18,2018,CAF Champions League,Group Stage,DH El Jadida,MC Alger,2,0,False,Home Win,1124.4,-389,Mediterranean,H,H
+2018-08-18,2018,CAF Champions League,Group Stage,KCCA,Township Rollers,1,0,False,Home Win,2871.5,190,Tropical,H,H
+2018-08-28,2018,CAF Champions League,Group Stage,Al Ahly,KCCA,4,3,False,Home Win,3307.2,-1177,Arid,H,H
+2018-08-28,2018,CAF Champions League,Group Stage,Township Rollers,Esperance de Tunis,0,0,False,Draw,7030.1,1000,Semi-Arid,D,D
+2018-08-28,2018,CAF Champions League,Group Stage,TP Mazembe,DH El Jadida,1,1,False,Draw,6280.9,1215,Tropical,D,D
+2018-08-28,2018,CAF Champions League,Group Stage,MC Alger,ES Setif,1,2,False,Away Win,216.6,-672,Mediterranean,A,A
+2018-08-28,2018,CAF Champions League,Group Stage,Mamelodi Sundowns,Horoya AC,0,0,False,Draw,5993.8,1310,Semi-Arid,D,D
+2018-08-28,2018,CAF Champions League,Group Stage,Togo-Port,Wydad Casablanca,0,0,False,Draw,3183.0,-46,Tropical,D,D
+2018-08-28,2018,CAF Champions League,Group Stage,Primeiro de Agosto,Mbabane Swallows,2,1,False,Home Win,2708.4,-1100,Tropical,H,H
+2018-08-28,2018,CAF Champions League,Group Stage,Zesco United,Etoile du Sahel,1,1,False,Draw,5714.1,1260,Tropical,D,D
+2018-09-14,2018,CAF Champions League,Quarter-final,Horoya AC,Al Ahly,0,0,False,Draw,5164.5,7,Tropical,D,D
+2018-09-14,2018,CAF Champions League,Quarter-final,ES Setif,Wydad Casablanca,1,0,False,Home Win,1220.0,1040,Semi-Arid,H,H
+2018-09-15,2018,CAF Champions League,Quarter-final,Primeiro de Agosto,TP Mazembe,0,0,False,Draw,1589.7,-1190,Tropical,D,D
+2018-09-15,2018,CAF Champions League,Quarter-final,Esperance de Tunis,Etoile du Sahel,2,1,False,Home Win,116.5,-10,Mediterranean,H,H
+2018-09-21,2018,CAF Champions League,Quarter-final,Wydad Casablanca,ES Setif,0,0,False,Draw,1220.0,-1040,Mediterranean,D,D
+2018-09-21,2018,CAF Champions League,Quarter-final,TP Mazembe,Primeiro de Agosto,1,1,False,Draw,1589.7,1190,Tropical,D,D
+2018-09-21,2018,CAF Champions League,Quarter-final,Etoile du Sahel,Esperance de Tunis,0,1,False,Away Win,116.5,10,Mediterranean,A,A
+2018-09-22,2018,CAF Champions League,Quarter-final,Al Ahly,Horoya AC,4,0,False,Home Win,5164.5,-7,Arid,H,H
+2018-10-02,2018,CAF Champions League,Semi-final,Primeiro de Agosto,Esperance de Tunis,1,0,False,Home Win,5085.3,50,Tropical,H,H
+2018-10-02,2018,CAF Champions League,Semi-final,Al Ahly,ES Setif,2,0,False,Home Win,2492.3,-1073,Arid,H,H
+2018-10-23,2018,CAF Champions League,Semi-final,Esperance de Tunis,Primeiro de Agosto,4,2,False,Home Win,5085.3,-50,Mediterranean,H,H
+2018-10-23,2018,CAF Champions League,Semi-final,ES Setif,Al Ahly,2,1,False,Home Win,2492.3,1073,Semi-Arid,H,H
+2018-11-02,2018,CAF Champions League,Final,Al Ahly,Esperance de Tunis,3,1,False,Home Win,2088.3,13,Arid,H,H
+2018-11-09,2018,CAF Champions League,Final,Esperance de Tunis,Al Ahly,3,0,False,Home Win,2088.3,-13,Mediterranean,H,H
+2019-01-11,2018/19,CAF Champions League,Group Stage,Lobi Stars,Mamelodi Sundowns,2,1,False,Home Win,4290.2,-1155,Tropical,H,H
+2019-01-11,2018/19,CAF Champions League,Group Stage,Wydad Casablanca,ASEC Mimosas,5,2,False,Home Win,3160.1,36,Mediterranean,H,H
+2019-01-11,2018/19,CAF Champions League,Group Stage,Horoya AC,Esperance de Tunis,1,1,False,Draw,3851.2,20,Tropical,D,D
+2019-01-11,2018/19,CAF Champions League,Group Stage,Club Africain,CS Constantine,0,1,False,Away Win,322.2,-630,Mediterranean,A,A
+2019-01-12,2018/19,CAF Champions League,Group Stage,FC Platinum,Orlando Pirates,0,0,False,Draw,772.6,-353,Tropical,D,D
+2019-01-12,2018/19,CAF Champions League,Group Stage,TP Mazembe,Ismaily,2,0,False,Home Win,4726.7,1245,Tropical,H,H
+2019-01-12,2018/19,CAF Champions League,Group Stage,Simba SC,JS Saoura,3,0,False,Home Win,5801.5,-715,Tropical,H,H
+2019-01-12,2018/19,CAF Champions League,Group Stage,Al Ahly,AS Vita Club,2,0,False,Home Win,4183.6,-297,Arid,H,H
+2019-01-18,2018/19,CAF Champions League,Group Stage,JS Saoura,Al Ahly,1,1,False,Draw,2769.2,747,Arid,D,D
+2019-01-18,2018/19,CAF Champions League,Group Stage,Ismaily,Club Africain,1,2,False,Away Win,2151.1,-5,Arid,A,A
+2019-01-18,2018/19,CAF Champions League,Group Stage,Orlando Pirates,Horoya AC,3,0,False,Home Win,6008.7,1723,Semi-Arid,H,H
+2019-01-18,2018/19,CAF Champions League,Group Stage,Esperance de Tunis,FC Platinum,2,0,False,Home Win,6586.2,-1390,Mediterranean,H,H
+2019-01-19,2018/19,CAF Champions League,Group Stage,ASEC Mimosas,Lobi Stars,1,0,False,Home Win,1410.2,-165,Tropical,H,H
+2019-01-19,2018/19,CAF Champions League,Group Stage,Mamelodi Sundowns,Wydad Casablanca,2,1,False,Home Win,7604.6,1284,Semi-Arid,H,H
+2019-01-19,2018/19,CAF Champions League,Group Stage,CS Constantine,TP Mazembe,3,0,False,Home Win,5770.7,-610,Semi-Arid,H,H
+2019-01-19,2018/19,CAF Champions League,Group Stage,AS Vita Club,Simba SC,5,0,False,Home Win,2657.3,265,Tropical,H,H
+2019-02-01,2018/19,CAF Champions League,Group Stage,Mamelodi Sundowns,ASEC Mimosas,3,1,False,Home Win,4905.0,1320,Semi-Arid,H,H
+2019-02-02,2018/19,CAF Champions League,Group Stage,Al Ahly,Simba SC,5,0,False,Home Win,4185.2,-32,Arid,H,H
+2019-02-02,2018/19,CAF Champions League,Group Stage,TP Mazembe,Club Africain,8,0,False,Home Win,5685.2,1240,Tropical,H,H
+2019-02-02,2018/19,CAF Champions League,Group Stage,AS Vita Club,JS Saoura,2,2,False,Draw,4232.8,-450,Tropical,D,D
+2019-02-02,2018/19,CAF Champions League,Group Stage,FC Platinum,Horoya AC,0,1,False,Away Win,5749.2,1370,Tropical,A,A
+2019-02-02,2018/19,CAF Champions League,Group Stage,Lobi Stars,Wydad Casablanca,0,1,False,Away Win,3315.1,129,Tropical,A,A
+2019-02-02,2018/19,CAF Champions League,Group Stage,Orlando Pirates,Esperance de Tunis,0,0,False,Draw,7251.8,1743,Semi-Arid,D,D
+2019-02-12,2018/19,CAF Champions League,Group Stage,ASEC Mimosas,Mamelodi Sundowns,0,0,False,Draw,4905.0,-1320,Tropical,D,D
+2019-02-12,2018/19,CAF Champions League,Group Stage,Wydad Casablanca,Lobi Stars,0,0,False,Draw,3315.1,-129,Mediterranean,D,D
+2019-02-12,2018/19,CAF Champions League,Group Stage,Esperance de Tunis,Orlando Pirates,2,0,False,Home Win,7251.8,-1743,Mediterranean,H,H
+2019-02-12,2018/19,CAF Champions League,Group Stage,Horoya AC,FC Platinum,2,0,False,Home Win,5749.2,-1370,Tropical,H,H
+2019-02-12,2018/19,CAF Champions League,Group Stage,Club Africain,TP Mazembe,0,0,False,Draw,5685.2,-1240,Mediterranean,D,D
+2019-02-12,2018/19,CAF Champions League,Group Stage,Ismaily,CS Constantine,1,1,False,Draw,2456.3,-635,Arid,D,D
+2019-02-12,2018/19,CAF Champions League,Group Stage,Simba SC,Al Ahly,1,0,False,Home Win,4185.2,32,Tropical,H,H
+2019-02-12,2018/19,CAF Champions League,Group Stage,JS Saoura,AS Vita Club,1,0,False,Home Win,4232.8,450,Arid,H,H
+2019-03-02,2018/19,CAF Champions League,Group Stage,CS Constantine,Ismaily,3,2,False,Home Win,2456.3,635,Semi-Arid,H,H
+2019-03-08,2018/19,CAF Champions League,Group Stage,Ismaily,TP Mazembe,1,1,False,Draw,4726.7,-1245,Arid,D,D
+2019-03-08,2018/19,CAF Champions League,Group Stage,Orlando Pirates,FC Platinum,2,2,False,Draw,772.6,353,Semi-Arid,D,D
+2019-03-08,2018/19,CAF Champions League,Group Stage,Esperance de Tunis,Horoya AC,2,0,False,Home Win,3851.2,-20,Mediterranean,H,H
+2019-03-08,2018/19,CAF Champions League,Group Stage,CS Constantine,Club Africain,0,1,False,Away Win,322.2,630,Semi-Arid,A,A
+2019-03-09,2018/19,CAF Champions League,Group Stage,ASEC Mimosas,Wydad Casablanca,2,0,False,Home Win,3160.1,-36,Tropical,H,H
+2019-03-09,2018/19,CAF Champions League,Group Stage,Mamelodi Sundowns,Lobi Stars,3,0,False,Home Win,4290.2,1155,Semi-Arid,H,H
+2019-03-09,2018/19,CAF Champions League,Group Stage,AS Vita Club,Al Ahly,1,0,False,Home Win,4183.6,297,Tropical,H,H
+2019-03-09,2018/19,CAF Champions League,Group Stage,JS Saoura,Simba SC,2,0,False,Home Win,5801.5,715,Arid,H,H
+2019-03-16,2018/19,CAF Champions League,Group Stage,Club Africain,Ismaily,1,0,False,Home Win,2151.1,5,Mediterranean,H,H
+2019-03-16,2018/19,CAF Champions League,Group Stage,Simba SC,AS Vita Club,2,1,False,Home Win,2657.3,-265,Tropical,H,H
+2019-03-16,2018/19,CAF Champions League,Group Stage,Al Ahly,JS Saoura,3,0,False,Home Win,2769.2,-747,Arid,H,H
+2019-03-16,2018/19,CAF Champions League,Group Stage,TP Mazembe,CS Constantine,2,0,False,Home Win,5770.7,610,Tropical,H,H
+2019-03-16,2018/19,CAF Champions League,Group Stage,Horoya AC,Orlando Pirates,2,1,False,Home Win,6008.7,-1723,Tropical,H,H
+2019-03-16,2018/19,CAF Champions League,Group Stage,FC Platinum,Esperance de Tunis,1,2,False,Away Win,6586.2,1390,Tropical,A,A
+2019-03-16,2018/19,CAF Champions League,Group Stage,Wydad Casablanca,Mamelodi Sundowns,1,0,False,Home Win,7604.6,-1284,Mediterranean,H,H
+2019-03-16,2018/19,CAF Champions League,Group Stage,Lobi Stars,ASEC Mimosas,2,0,False,Home Win,1410.2,165,Tropical,H,H
+2019-04-06,2018/19,CAF Champions League,Quarter-final,CS Constantine,Esperance de Tunis,2,3,False,Away Win,322.2,630,Semi-Arid,A,A
+2019-04-06,2018/19,CAF Champions League,Quarter-final,Mamelodi Sundowns,Al Ahly,5,0,False,Home Win,6214.2,1317,Semi-Arid,H,H
+2019-04-06,2018/19,CAF Champions League,Quarter-final,Horoya AC,Wydad Casablanca,0,0,False,Draw,2730.7,-26,Tropical,D,D
+2019-04-06,2018/19,CAF Champions League,Quarter-final,Simba SC,TP Mazembe,0,0,False,Draw,1396.1,-1195,Tropical,D,D
+2019-04-13,2018/19,CAF Champions League,Quarter-final,Al Ahly,Mamelodi Sundowns,1,0,False,Home Win,6214.2,-1317,Arid,H,H
+2019-04-13,2018/19,CAF Champions League,Quarter-final,Wydad Casablanca,Horoya AC,5,0,False,Home Win,2730.7,26,Mediterranean,H,H
+2019-04-13,2018/19,CAF Champions League,Quarter-final,Esperance de Tunis,CS Constantine,3,1,False,Home Win,322.2,-630,Mediterranean,H,H
+2019-04-13,2018/19,CAF Champions League,Quarter-final,TP Mazembe,Simba SC,4,1,False,Home Win,1396.1,1195,Tropical,H,H
+2019-04-26,2018/19,CAF Champions League,Semi-final,Wydad Casablanca,Mamelodi Sundowns,2,1,False,Home Win,7604.6,-1284,Mediterranean,H,H
+2019-04-27,2018/19,CAF Champions League,Semi-final,Esperance de Tunis,TP Mazembe,1,0,False,Home Win,5685.2,-1240,Mediterranean,H,H
+2019-05-04,2018/19,CAF Champions League,Semi-final,Mamelodi Sundowns,Wydad Casablanca,0,0,False,Draw,7604.6,1284,Semi-Arid,D,D
+2019-05-04,2018/19,CAF Champions League,Semi-final,TP Mazembe,Esperance de Tunis,0,0,False,Draw,5685.2,1240,Tropical,D,D
+2019-05-24,2018/19,CAF Champions League,Final,Wydad Casablanca,Esperance de Tunis,1,1,False,Draw,1651.8,46,Mediterranean,D,D
+2019-05-31,2018/19,CAF Champions League,Final,Esperance de Tunis,Wydad Casablanca,1,0,False,Home Win,1651.8,-46,Mediterranean,H,H
+2019-11-29,2019/20,CAF Champions League,Group Stage,Al Hilal,FC Platinum,2,1,False,Home Win,3897.9,-1020,Arid,H,H
+2019-11-29,2019/20,CAF Champions League,Group Stage,Etoile du Sahel,Al Ahly,1,0,False,Home Win,2022.9,-3,Mediterranean,H,H
+2019-11-29,2019/20,CAF Champions League,Group Stage,JS Kabylie,AS Vita Club,1,0,False,Home Win,4695.7,-70,Mediterranean,H,H
+2019-11-30,2019/20,CAF Champions League,Group Stage,TP Mazembe,Zamalek,3,0,False,Home Win,4657.0,1227,Tropical,H,H
+2019-11-30,2019/20,CAF Champions League,Group Stage,Primeiro de Agosto,Zesco United,1,1,False,Draw,1693.8,-1220,Tropical,D,D
+2019-11-30,2019/20,CAF Champions League,Group Stage,USM Alger,Wydad Casablanca,1,1,False,Draw,1031.7,368,Mediterranean,D,D
+2019-11-30,2019/20,CAF Champions League,Group Stage,Mamelodi Sundowns,Petro de Luanda,3,0,False,Home Win,2458.7,1280,Semi-Arid,H,H
+2019-11-30,2019/20,CAF Champions League,Group Stage,Raja Casablanca,Esperance de Tunis,0,2,False,Away Win,1651.8,46,Mediterranean,A,A
+2019-12-06,2019/20,CAF Champions League,Group Stage,Esperance de Tunis,JS Kabylie,1,0,False,Home Win,494.8,-240,Mediterranean,H,H
+2019-12-06,2019/20,CAF Champions League,Group Stage,AS Vita Club,Raja Casablanca,0,1,False,Away Win,4854.4,264,Tropical,A,A
+2019-12-06,2019/20,CAF Champions League,Group Stage,Al Ahly,Al Hilal,2,1,False,Home Win,1624.7,-357,Arid,H,H
+2019-12-07,2019/20,CAF Champions League,Group Stage,Zesco United,TP Mazembe,1,2,False,Away Win,149.9,30,Tropical,A,A
+2019-12-07,2019/20,CAF Champions League,Group Stage,Zamalek,Primeiro de Agosto,2,0,False,Home Win,4734.8,-37,Arid,H,H
+2019-12-07,2019/20,CAF Champions League,Group Stage,FC Platinum,Etoile du Sahel,0,3,False,Away Win,6469.7,1380,Tropical,A,A
+2019-12-07,2019/20,CAF Champions League,Group Stage,Petro de Luanda,USM Alger,1,1,False,Draw,5177.2,-364,Tropical,D,D
+2019-12-07,2019/20,CAF Champions League,Group Stage,Wydad Casablanca,Mamelodi Sundowns,0,0,False,Draw,7604.6,-1284,Mediterranean,D,D
+2019-12-27,2019/20,CAF Champions League,Group Stage,Primeiro de Agosto,TP Mazembe,1,1,False,Draw,1589.7,-1190,Tropical,D,D
+2019-12-27,2019/20,CAF Champions League,Group Stage,Esperance de Tunis,AS Vita Club,0,0,False,Draw,4605.4,-310,Mediterranean,D,D
+2019-12-27,2019/20,CAF Champions League,Group Stage,Raja Casablanca,JS Kabylie,2,0,False,Home Win,1163.2,-194,Mediterranean,H,H
+2019-12-28,2019/20,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,4,1,False,Home Win,5203.8,-4,Mediterranean,H,H
+2019-12-28,2019/20,CAF Champions League,Group Stage,USM Alger,Mamelodi Sundowns,0,1,False,Away Win,7430.3,-916,Mediterranean,A,A
+2019-12-28,2019/20,CAF Champions League,Group Stage,Etoile du Sahel,Al Hilal,0,1,False,Away Win,3136.6,-360,Mediterranean,A,A
+2019-12-28,2019/20,CAF Champions League,Group Stage,Zesco United,Zamalek,1,1,False,Draw,4777.5,1257,Tropical,D,D
+2019-12-28,2019/20,CAF Champions League,Group Stage,Al Ahly,FC Platinum,2,0,False,Home Win,5507.7,-1377,Arid,H,H
+2020-01-10,2019/20,CAF Champions League,Group Stage,Zamalek,Zesco United,2,0,False,Home Win,4777.5,-1257,Arid,H,H
+2020-01-10,2019/20,CAF Champions League,Group Stage,JS Kabylie,Raja Casablanca,0,0,False,Draw,1163.2,194,Mediterranean,D,D
+2020-01-11,2019/20,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,2,2,False,Draw,5203.8,4,Tropical,D,D
+2020-01-11,2019/20,CAF Champions League,Group Stage,TP Mazembe,Primeiro de Agosto,2,1,False,Home Win,1589.7,1190,Tropical,H,H
+2020-01-11,2019/20,CAF Champions League,Group Stage,FC Platinum,Al Ahly,1,1,False,Draw,5507.7,1377,Tropical,D,D
+2020-01-11,2019/20,CAF Champions League,Group Stage,Al Hilal,Etoile du Sahel,1,2,False,Away Win,3136.6,360,Arid,A,A
+2020-01-11,2019/20,CAF Champions League,Group Stage,Mamelodi Sundowns,USM Alger,2,1,False,Home Win,7430.3,916,Semi-Arid,H,H
+2020-01-11,2019/20,CAF Champions League,Group Stage,AS Vita Club,Esperance de Tunis,0,2,False,Away Win,4605.4,310,Tropical,A,A
+2020-01-24,2019/20,CAF Champions League,Group Stage,Wydad Casablanca,USM Alger,3,1,False,Home Win,1031.7,-368,Mediterranean,H,H
+2020-01-24,2019/20,CAF Champions League,Group Stage,Zamalek,TP Mazembe,0,0,False,Draw,4657.0,-1227,Arid,D,D
+2020-01-25,2019/20,CAF Champions League,Group Stage,Zesco United,Primeiro de Agosto,1,1,False,Draw,1693.8,1220,Tropical,D,D
+2020-01-25,2019/20,CAF Champions League,Group Stage,FC Platinum,Al Hilal,0,1,False,Away Win,3897.9,1020,Tropical,A,A
+2020-01-25,2019/20,CAF Champions League,Group Stage,Petro de Luanda,Mamelodi Sundowns,2,2,False,Draw,2458.7,-1280,Tropical,D,D
+2020-01-25,2019/20,CAF Champions League,Group Stage,AS Vita Club,JS Kabylie,4,1,False,Home Win,4695.7,70,Tropical,H,H
+2020-01-25,2019/20,CAF Champions League,Group Stage,Esperance de Tunis,Raja Casablanca,2,2,False,Draw,1651.8,-46,Mediterranean,D,D
+2020-01-26,2019/20,CAF Champions League,Group Stage,Al Ahly,Etoile du Sahel,1,0,False,Home Win,2022.9,3,Arid,H,H
+2020-02-01,2019/20,CAF Champions League,Group Stage,USM Alger,Petro de Luanda,2,2,False,Draw,5177.2,364,Mediterranean,D,D
+2020-02-01,2019/20,CAF Champions League,Group Stage,JS Kabylie,Esperance de Tunis,1,0,False,Home Win,494.8,240,Mediterranean,H,H
+2020-02-01,2019/20,CAF Champions League,Group Stage,Mamelodi Sundowns,Wydad Casablanca,1,0,False,Home Win,7604.6,1284,Semi-Arid,H,H
+2020-02-01,2019/20,CAF Champions League,Group Stage,Raja Casablanca,AS Vita Club,1,0,False,Home Win,4854.4,-264,Mediterranean,H,H
+2020-02-01,2019/20,CAF Champions League,Group Stage,Al Hilal,Al Ahly,1,1,False,Draw,1624.7,357,Arid,D,D
+2020-02-01,2019/20,CAF Champions League,Group Stage,Primeiro de Agosto,Zamalek,0,0,False,Draw,4734.8,37,Tropical,D,D
+2020-02-01,2019/20,CAF Champions League,Group Stage,Etoile du Sahel,FC Platinum,2,0,False,Home Win,6469.7,-1380,Mediterranean,H,H
+2020-02-01,2019/20,CAF Champions League,Group Stage,TP Mazembe,Zesco United,3,1,False,Home Win,149.9,-30,Tropical,H,H
+2020-02-28,2019/20,CAF Champions League,Quarter-final,Zamalek,Esperance de Tunis,3,1,False,Home Win,2088.3,13,Arid,H,H
+2020-02-28,2019/20,CAF Champions League,Quarter-final,Raja Casablanca,TP Mazembe,2,0,False,Home Win,6250.8,-1194,Mediterranean,H,H
+2020-02-29,2019/20,CAF Champions League,Quarter-final,Al Ahly,Mamelodi Sundowns,2,0,False,Home Win,6214.2,-1317,Arid,H,H
+2020-02-29,2019/20,CAF Champions League,Quarter-final,Wydad Casablanca,Etoile du Sahel,2,0,False,Home Win,1682.2,36,Mediterranean,H,H
+2020-03-06,2019/20,CAF Champions League,Quarter-final,Esperance de Tunis,Zamalek,1,0,False,Home Win,2088.3,-13,Mediterranean,H,H
+2020-03-07,2019/20,CAF Champions League,Quarter-final,TP Mazembe,Raja Casablanca,1,0,False,Home Win,6250.8,1194,Tropical,H,H
+2020-03-07,2019/20,CAF Champions League,Quarter-final,Mamelodi Sundowns,Al Ahly,1,1,False,Draw,6214.2,1317,Semi-Arid,D,D
+2020-03-07,2019/20,CAF Champions League,Quarter-final,Etoile du Sahel,Wydad Casablanca,1,0,False,Home Win,1682.2,-36,Mediterranean,H,H
+2020-10-17,2019/20,CAF Champions League,Semi-final,Wydad Casablanca,Al Ahly,0,2,False,Away Win,3669.2,33,Mediterranean,A,A
+2020-10-18,2019/20,CAF Champions League,Semi-final,Raja Casablanca,Zamalek,0,1,False,Away Win,3669.2,33,Mediterranean,A,A
+2020-10-23,2019/20,CAF Champions League,Semi-final,Al Ahly,Wydad Casablanca,3,1,False,Home Win,3669.2,-33,Arid,H,H
+2020-11-04,2019/20,CAF Champions League,Semi-final,Zamalek,Raja Casablanca,3,1,False,Home Win,3669.2,-33,Arid,H,H
+2021-02-12,2020/21,CAF Champions League,Group Stage,AS Vita Club,Simba SC,0,1,False,Away Win,2657.3,265,Tropical,A,A
+2021-02-12,2020/21,CAF Champions League,Group Stage,Zamalek,MC Alger,0,0,False,Draw,2706.6,-401,Arid,D,D
+2021-02-13,2020/21,CAF Champions League,Group Stage,TP Mazembe,CR Belouizdad,0,0,False,Draw,5956.3,826,Tropical,D,D
+2021-02-13,2020/21,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Hilal,2,0,False,Home Win,4610.5,960,Semi-Arid,H,H
+2021-02-13,2020/21,CAF Champions League,Group Stage,Horoya AC,Petro de Luanda,2,0,False,Home Win,3610.1,-30,Tropical,H,H
+2021-02-13,2020/21,CAF Champions League,Group Stage,Esperance de Tunis,Teungueth FC,2,1,False,Home Win,3664.0,0,Mediterranean,H,H
+2021-02-16,2020/21,CAF Champions League,Group Stage,Al Ahly,Al Merreikh,3,0,False,Home Win,1624.7,-357,Arid,H,H
+2021-02-23,2020/21,CAF Champions League,Group Stage,Teungueth FC,Zamalek,0,0,False,Draw,5235.3,-13,Arid,D,D
+2021-02-23,2020/21,CAF Champions League,Group Stage,MC Alger,Esperance de Tunis,1,1,False,Draw,631.8,414,Mediterranean,D,D
+2021-02-23,2020/21,CAF Champions League,Group Stage,Kaizer Chiefs,Horoya AC,0,0,False,Draw,6008.7,1723,Semi-Arid,D,D
+2021-02-23,2020/21,CAF Champions League,Group Stage,Simba SC,Al Ahly,1,0,False,Home Win,4185.2,32,Tropical,H,H
+2021-02-23,2020/21,CAF Champions League,Group Stage,Al Merreikh,AS Vita Club,1,4,False,Away Win,2909.4,60,Arid,A,A
+2021-02-23,2020/21,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,0,1,False,Away Win,5203.8,4,Tropical,A,A
+2021-02-24,2020/21,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,0,0,False,Draw,3071.6,-870,Arid,D,D
+2021-02-28,2020/21,CAF Champions League,Group Stage,CR Belouizdad,Mamelodi Sundowns,1,5,False,Away Win,7430.3,-916,Mediterranean,A,A
+2021-02-28,2020/21,CAF Champions League,Group Stage,Wydad Casablanca,Kaizer Chiefs,4,0,False,Home Win,7638.3,-1697,Mediterranean,H,H
+2021-03-05,2020/21,CAF Champions League,Group Stage,CR Belouizdad,Al Hilal,1,1,False,Draw,3745.0,44,Mediterranean,D,D
+2021-03-06,2020/21,CAF Champions League,Group Stage,Esperance de Tunis,Zamalek,3,1,False,Home Win,2088.3,-13,Mediterranean,H,H
+2021-03-06,2020/21,CAF Champions League,Group Stage,Wydad Casablanca,Horoya AC,2,0,False,Home Win,2730.7,26,Mediterranean,H,H
+2021-03-06,2020/21,CAF Champions League,Group Stage,Kaizer Chiefs,Petro de Luanda,2,0,False,Home Win,2484.1,1693,Semi-Arid,H,H
+2021-03-06,2020/21,CAF Champions League,Group Stage,Teungueth FC,MC Alger,0,1,False,Away Win,3173.1,-414,Arid,A,A
+2021-03-06,2020/21,CAF Champions League,Group Stage,Al Ahly,AS Vita Club,2,2,False,Draw,4183.6,-297,Arid,D,D
+2021-03-06,2020/21,CAF Champions League,Group Stage,Al Merreikh,Simba SC,0,0,False,Draw,2584.8,325,Arid,D,D
+2021-03-06,2020/21,CAF Champions League,Group Stage,TP Mazembe,Mamelodi Sundowns,1,2,False,Away Win,1568.4,-90,Tropical,A,A
+2021-03-16,2020/21,CAF Champions League,Group Stage,AS Vita Club,Al Ahly,0,3,False,Away Win,4183.6,297,Tropical,A,A
+2021-03-16,2020/21,CAF Champions League,Group Stage,Simba SC,Al Merreikh,3,0,False,Home Win,2584.8,-325,Tropical,H,H
+2021-03-16,2020/21,CAF Champions League,Group Stage,Al Hilal,CR Belouizdad,0,0,False,Draw,3745.0,-44,Arid,D,D
+2021-03-16,2020/21,CAF Champions League,Group Stage,Mamelodi Sundowns,TP Mazembe,1,0,False,Home Win,1568.4,90,Semi-Arid,H,H
+2021-03-16,2020/21,CAF Champions League,Group Stage,Horoya AC,Wydad Casablanca,0,0,False,Draw,2730.7,-26,Tropical,D,D
+2021-03-16,2020/21,CAF Champions League,Group Stage,Petro de Luanda,Kaizer Chiefs,0,0,False,Draw,2484.1,-1693,Tropical,D,D
+2021-03-16,2020/21,CAF Champions League,Group Stage,MC Alger,Teungueth FC,1,0,False,Home Win,3173.1,414,Mediterranean,H,H
+2021-03-16,2020/21,CAF Champions League,Group Stage,Zamalek,Esperance de Tunis,0,1,False,Away Win,2088.3,13,Arid,A,A
+2021-04-02,2020/21,CAF Champions League,Group Stage,Al Hilal,Mamelodi Sundowns,0,0,False,Draw,4610.5,-960,Arid,D,D
+2021-04-02,2020/21,CAF Champions League,Group Stage,CR Belouizdad,TP Mazembe,2,0,False,Home Win,5956.3,-826,Mediterranean,H,H
+2021-04-03,2020/21,CAF Champions League,Group Stage,Teungueth FC,Esperance de Tunis,2,1,False,Home Win,3664.0,0,Arid,H,H
+2021-04-03,2020/21,CAF Champions League,Group Stage,MC Alger,Zamalek,0,2,False,Away Win,2706.6,401,Mediterranean,A,A
+2021-04-03,2020/21,CAF Champions League,Group Stage,Petro de Luanda,Horoya AC,0,1,False,Away Win,3610.1,30,Tropical,A,A
+2021-04-03,2020/21,CAF Champions League,Group Stage,Al Merreikh,Al Ahly,2,2,False,Draw,1624.7,357,Arid,D,D
+2021-04-03,2020/21,CAF Champions League,Group Stage,Simba SC,AS Vita Club,4,1,False,Home Win,2657.3,-265,Tropical,H,H
+2021-04-03,2020/21,CAF Champions League,Group Stage,Kaizer Chiefs,Wydad Casablanca,1,0,False,Home Win,7638.3,1697,Semi-Arid,H,H
+2021-04-09,2020/21,CAF Champions League,Group Stage,Al Ahly,Simba SC,1,0,False,Home Win,4185.2,-32,Arid,H,H
+2021-04-09,2020/21,CAF Champions League,Group Stage,AS Vita Club,Al Merreikh,3,1,False,Home Win,2909.4,-60,Tropical,H,H
+2021-04-09,2020/21,CAF Champions League,Group Stage,Mamelodi Sundowns,CR Belouizdad,0,2,False,Away Win,7430.3,916,Semi-Arid,A,A
+2021-04-09,2020/21,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,2,1,False,Home Win,3071.6,870,Tropical,H,H
+2021-04-10,2020/21,CAF Champions League,Group Stage,Horoya AC,Kaizer Chiefs,2,2,False,Draw,6008.7,-1723,Tropical,D,D
+2021-04-10,2020/21,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,2,0,False,Home Win,5203.8,-4,Mediterranean,H,H
+2021-04-10,2020/21,CAF Champions League,Group Stage,Esperance de Tunis,MC Alger,1,1,False,Draw,631.8,-414,Mediterranean,D,D
+2021-04-10,2020/21,CAF Champions League,Group Stage,Zamalek,Teungueth FC,4,1,False,Home Win,5235.3,13,Arid,H,H
+2021-05-14,2020/21,CAF Champions League,Quarter-final,MC Alger,Wydad Casablanca,1,1,False,Draw,1031.7,368,Mediterranean,D,D
+2021-05-15,2020/21,CAF Champions League,Quarter-final,Kaizer Chiefs,Simba SC,4,0,False,Home Win,2461.2,1698,Semi-Arid,H,H
+2021-05-15,2020/21,CAF Champions League,Quarter-final,Al Ahly,Mamelodi Sundowns,2,0,False,Home Win,6214.2,-1317,Arid,H,H
+2021-05-15,2020/21,CAF Champions League,Quarter-final,CR Belouizdad,Esperance de Tunis,2,0,False,Home Win,631.8,414,Mediterranean,H,H
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Wydad Casablanca,MC Alger,1,0,False,Home Win,1031.7,-368,Mediterranean,H,H
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Mamelodi Sundowns,Al Ahly,1,1,False,Draw,6214.2,1317,Semi-Arid,D,D
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Esperance de Tunis,CR Belouizdad,2,0,False,Home Win,631.8,-414,Mediterranean,H,H
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Simba SC,Kaizer Chiefs,3,0,False,Home Win,2461.2,-1698,Tropical,H,H
+2021-06-19,2020/21,CAF Champions League,Semi-final,Esperance de Tunis,Al Ahly,0,1,False,Away Win,2088.3,-13,Mediterranean,A,A
+2021-06-19,2020/21,CAF Champions League,Semi-final,Wydad Casablanca,Kaizer Chiefs,0,1,False,Away Win,7638.3,-1697,Mediterranean,A,A
+2021-06-26,2020/21,CAF Champions League,Semi-final,Al Ahly,Esperance de Tunis,3,0,False,Home Win,2088.3,13,Arid,H,H
+2021-06-26,2020/21,CAF Champions League,Semi-final,Kaizer Chiefs,Wydad Casablanca,0,0,False,Draw,7638.3,1697,Semi-Arid,D,D
+2022-02-11,2021/22,CAF Champions League,Group Stage,Wydad Casablanca,Sagrada Esperanca,3,0,False,Home Win,5502.1,-1294,Mediterranean,H,H
+2022-02-11,2021/22,CAF Champions League,Group Stage,Etoile du Sahel,CR Belouizdad,0,0,False,Draw,684.0,-404,Mediterranean,D,D
+2022-02-11,2021/22,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Hilal,1,0,False,Home Win,4610.5,960,Semi-Arid,H,H
+2022-02-12,2021/22,CAF Champions League,Group Stage,Horoya AC,ES Setif,0,1,False,Away Win,3519.5,-1066,Tropical,A,A
+2022-02-12,2021/22,CAF Champions League,Group Stage,Raja Casablanca,AmaZulu,1,0,False,Home Win,8137.7,46,Mediterranean,H,H
+2022-02-12,2021/22,CAF Champions League,Group Stage,Esperance de Tunis,Jwaneng Galaxy,4,0,False,Home Win,6996.5,-1090,Mediterranean,H,H
+2022-02-12,2021/22,CAF Champions League,Group Stage,Zamalek,Petro de Luanda,2,2,False,Draw,4734.8,-37,Arid,D,D
+2022-02-18,2021/22,CAF Champions League,Group Stage,Al Hilal,Al Ahly,0,0,False,Draw,1624.7,357,Arid,D,D
+2022-02-18,2021/22,CAF Champions League,Group Stage,AmaZulu,Horoya AC,1,0,False,Home Win,6483.2,-20,Subtropical,H,H
+2022-02-18,2021/22,CAF Champions League,Group Stage,ES Setif,Raja Casablanca,0,1,False,Away Win,1220.0,1040,Semi-Arid,A,A
+2022-02-19,2021/22,CAF Champions League,Group Stage,Sagrada Esperanca,Zamalek,0,0,False,Draw,4834.1,1327,Tropical,D,D
+2022-02-19,2021/22,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,2,1,False,Home Win,5203.8,4,Tropical,H,H
+2022-02-19,2021/22,CAF Champions League,Group Stage,CR Belouizdad,Esperance de Tunis,1,1,False,Draw,631.8,414,Mediterranean,D,D
+2022-02-19,2021/22,CAF Champions League,Group Stage,Al Merreikh,Mamelodi Sundowns,0,0,False,Draw,4610.5,-960,Arid,D,D
+2022-02-19,2021/22,CAF Champions League,Group Stage,Jwaneng Galaxy,Etoile du Sahel,1,1,False,Draw,6880.6,1080,Semi-Arid,D,D
+2022-02-25,2021/22,CAF Champions League,Group Stage,Al Merreikh,Al Hilal,2,1,False,Home Win,0.0,0,Arid,H,H
+2022-02-25,2021/22,CAF Champions League,Group Stage,AmaZulu,ES Setif,1,0,False,Home Win,7816.3,-1086,Subtropical,H,H
+2022-02-25,2021/22,CAF Champions League,Group Stage,Raja Casablanca,Horoya AC,1,0,False,Home Win,2730.7,26,Mediterranean,H,H
+2022-02-26,2021/22,CAF Champions League,Group Stage,Al Ahly,Mamelodi Sundowns,0,1,False,Away Win,6214.2,-1317,Arid,A,A
+2022-02-26,2021/22,CAF Champions League,Group Stage,Esperance de Tunis,Etoile du Sahel,0,0,False,Draw,116.5,-10,Mediterranean,D,D
+2022-02-26,2021/22,CAF Champions League,Group Stage,Jwaneng Galaxy,CR Belouizdad,1,2,False,Away Win,7188.0,676,Semi-Arid,A,A
+2022-02-26,2021/22,CAF Champions League,Group Stage,Sagrada Esperanca,Petro de Luanda,0,1,False,Away Win,332.7,1290,Tropical,A,A
+2022-02-26,2021/22,CAF Champions League,Group Stage,Wydad Casablanca,Zamalek,3,1,False,Home Win,3669.2,33,Mediterranean,H,H
+2022-03-05,2021/22,CAF Champions League,Group Stage,Al Ahly,Al Merreikh,3,2,False,Home Win,1624.7,-357,Arid,H,H
+2022-03-11,2021/22,CAF Champions League,Group Stage,Zamalek,Wydad Casablanca,0,1,False,Away Win,3669.2,-33,Arid,A,A
+2022-03-11,2021/22,CAF Champions League,Group Stage,Al Hilal,Al Merreikh,1,0,False,Home Win,0.0,0,Arid,H,H
+2022-03-11,2021/22,CAF Champions League,Group Stage,CR Belouizdad,Jwaneng Galaxy,4,1,False,Home Win,7188.0,-676,Mediterranean,H,H
+2022-03-12,2021/22,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Ahly,1,0,False,Home Win,6214.2,1317,Semi-Arid,H,H
+2022-03-12,2021/22,CAF Champions League,Group Stage,Horoya AC,Raja Casablanca,2,1,False,Home Win,2730.7,-26,Tropical,H,H
+2022-03-12,2021/22,CAF Champions League,Group Stage,ES Setif,AmaZulu,2,0,False,Home Win,7816.3,1086,Semi-Arid,H,H
+2022-03-12,2021/22,CAF Champions League,Group Stage,Etoile du Sahel,Esperance de Tunis,0,2,False,Away Win,116.5,10,Mediterranean,A,A
+2022-03-12,2021/22,CAF Champions League,Group Stage,Petro de Luanda,Sagrada Esperanca,3,0,False,Home Win,332.7,-1290,Tropical,H,H
+2022-03-18,2021/22,CAF Champions League,Group Stage,Al Merreikh,Al Ahly,1,3,False,Away Win,1624.7,357,Arid,A,A
+2022-03-18,2021/22,CAF Champions League,Group Stage,AmaZulu,Raja Casablanca,0,2,False,Away Win,8137.7,-46,Subtropical,A,A
+2022-03-18,2021/22,CAF Champions League,Group Stage,ES Setif,Horoya AC,3,2,False,Home Win,3519.5,1066,Semi-Arid,H,H
+2022-03-19,2021/22,CAF Champions League,Group Stage,Sagrada Esperanca,Wydad Casablanca,1,2,False,Away Win,5502.1,1294,Tropical,A,A
+2022-03-19,2021/22,CAF Champions League,Group Stage,Petro de Luanda,Zamalek,0,0,False,Draw,4734.8,37,Tropical,D,D
+2022-03-19,2021/22,CAF Champions League,Group Stage,Jwaneng Galaxy,Esperance de Tunis,0,3,False,Away Win,6996.5,1090,Semi-Arid,A,A
+2022-03-19,2021/22,CAF Champions League,Group Stage,Al Hilal,Mamelodi Sundowns,2,4,False,Away Win,4610.5,-960,Arid,A,A
+2022-03-19,2021/22,CAF Champions League,Group Stage,CR Belouizdad,Etoile du Sahel,2,0,False,Home Win,684.0,404,Mediterranean,H,H
+2022-04-01,2021/22,CAF Champions League,Group Stage,Horoya AC,AmaZulu,1,1,False,Draw,6483.2,20,Tropical,D,D
+2022-04-01,2021/22,CAF Champions League,Group Stage,Etoile du Sahel,Jwaneng Galaxy,3,2,False,Home Win,6880.6,-1080,Mediterranean,H,H
+2022-04-01,2021/22,CAF Champions League,Group Stage,Zamalek,Sagrada Esperanca,0,0,False,Draw,4834.1,-1327,Arid,D,D
+2022-04-02,2021/22,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Merreikh,3,0,False,Home Win,4610.5,960,Semi-Arid,H,H
+2022-04-02,2021/22,CAF Champions League,Group Stage,Esperance de Tunis,CR Belouizdad,2,1,False,Home Win,631.8,-414,Mediterranean,H,H
+2022-04-02,2021/22,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,5,1,False,Home Win,5203.8,-4,Mediterranean,H,H
+2022-04-03,2021/22,CAF Champions League,Group Stage,Al Ahly,Al Hilal,1,0,False,Home Win,1624.7,-357,Arid,H,H
+2022-04-03,2021/22,CAF Champions League,Group Stage,Raja Casablanca,ES Setif,1,0,False,Home Win,1220.0,-1040,Mediterranean,H,H
+2022-04-15,2021/22,CAF Champions League,Quarter-final,ES Setif,Esperance de Tunis,0,0,False,Draw,431.9,1086,Semi-Arid,D,D
+2022-04-16,2021/22,CAF Champions League,Quarter-final,Petro de Luanda,Mamelodi Sundowns,2,1,False,Home Win,2458.7,-1280,Tropical,H,H
+2022-04-16,2021/22,CAF Champions League,Quarter-final,Al Ahly,Raja Casablanca,2,1,False,Home Win,3669.2,-33,Arid,H,H
+2022-04-16,2021/22,CAF Champions League,Quarter-final,CR Belouizdad,Wydad Casablanca,0,1,False,Away Win,1031.7,368,Mediterranean,A,A
+2022-04-22,2021/22,CAF Champions League,Quarter-final,Esperance de Tunis,ES Setif,0,1,False,Away Win,431.9,-1086,Mediterranean,A,A
+2022-04-23,2021/22,CAF Champions League,Quarter-final,Mamelodi Sundowns,Petro de Luanda,1,1,False,Draw,2458.7,1280,Semi-Arid,D,D
+2022-04-23,2021/22,CAF Champions League,Quarter-final,Raja Casablanca,Al Ahly,1,1,False,Draw,3669.2,33,Mediterranean,D,D
+2022-04-24,2021/22,CAF Champions League,Quarter-final,Wydad Casablanca,CR Belouizdad,0,0,False,Draw,1031.7,-368,Mediterranean,D,D
+2022-05-07,2021/22,CAF Champions League,Semi-final,Petro de Luanda,Wydad Casablanca,1,3,False,Away Win,5203.8,4,Tropical,A,A
+2022-05-07,2021/22,CAF Champions League,Semi-final,Al Ahly,ES Setif,4,0,False,Home Win,2492.3,-1073,Arid,H,H
+2022-05-13,2021/22,CAF Champions League,Semi-final,Wydad Casablanca,Petro de Luanda,1,1,False,Draw,5203.8,-4,Mediterranean,D,D
+2022-05-14,2021/22,CAF Champions League,Semi-final,ES Setif,Al Ahly,2,2,False,Draw,2492.3,1073,Semi-Arid,D,D
+2023-02-10,2022/23,CAF Champions League,Group Stage,Raja Casablanca,Vipers,5,0,False,Home Win,5583.0,-1144,Mediterranean,H,H
+2023-02-10,2022/23,CAF Champions League,Group Stage,Zamalek,CR Belouizdad,0,1,False,Away Win,2706.6,-401,Arid,A,A
+2023-02-11,2022/23,CAF Champions League,Group Stage,Petro de Luanda,JS Kabylie,0,0,False,Draw,5142.7,-190,Tropical,D,D
+2023-02-11,2022/23,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Hilal,1,0,False,Home Win,4610.5,960,Semi-Arid,H,H
+2023-02-11,2022/23,CAF Champions League,Group Stage,Horoya AC,Simba SC,1,0,False,Home Win,6126.0,-25,Tropical,H,H
+2023-02-11,2022/23,CAF Champions League,Group Stage,Esperance de Tunis,Al Merreikh,1,0,False,Home Win,3238.7,-370,Mediterranean,H,H
+2023-02-17,2022/23,CAF Champions League,Group Stage,JS Kabylie,Wydad Casablanca,1,0,False,Home Win,1163.2,194,Mediterranean,H,H
+2023-02-17,2022/23,CAF Champions League,Group Stage,Cotonsport,Mamelodi Sundowns,1,3,False,Away Win,4177.7,-982,Tropical,A,A
+2023-02-17,2022/23,CAF Champions League,Group Stage,Al Merreikh,Zamalek,0,0,False,Draw,1624.7,357,Arid,D,D
+2023-02-18,2022/23,CAF Champions League,Group Stage,CR Belouizdad,Esperance de Tunis,0,1,False,Away Win,631.8,414,Mediterranean,A,A
+2023-02-18,2022/23,CAF Champions League,Group Stage,Simba SC,Raja Casablanca,0,3,False,Away Win,6664.6,-1,Tropical,A,A
+2023-02-18,2022/23,CAF Champions League,Group Stage,Al Hilal,Al Ahly,1,0,False,Home Win,1624.7,357,Arid,H,H
+2023-02-18,2022/23,CAF Champions League,Group Stage,AS Vita Club,Petro de Luanda,1,2,False,Away Win,551.4,260,Tropical,A,A
+2023-02-18,2022/23,CAF Champions League,Group Stage,Vipers,Horoya AC,0,0,False,Draw,5210.0,1170,Tropical,D,D
+2023-02-24,2022/23,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,1,0,False,Home Win,5203.8,-4,Mediterranean,H,H
+2023-02-24,2022/23,CAF Champions League,Group Stage,Cotonsport,Al Hilal,1,2,False,Away Win,2096.4,-22,Tropical,A,A
+2023-02-24,2022/23,CAF Champions League,Group Stage,Al Merreikh,CR Belouizdad,1,0,False,Home Win,3745.0,-44,Arid,H,H
+2023-02-25,2022/23,CAF Champions League,Group Stage,AS Vita Club,JS Kabylie,1,0,False,Home Win,4695.7,70,Tropical,H,H
+2023-02-25,2022/23,CAF Champions League,Group Stage,Al Ahly,Mamelodi Sundowns,2,2,False,Draw,6214.2,-1317,Arid,D,D
+2023-02-25,2022/23,CAF Champions League,Group Stage,Vipers,Simba SC,0,1,False,Away Win,1082.0,1145,Tropical,A,A
+2023-02-25,2022/23,CAF Champions League,Group Stage,Raja Casablanca,Horoya AC,2,0,False,Home Win,2730.7,26,Mediterranean,H,H
+2023-02-25,2022/23,CAF Champions League,Group Stage,Esperance de Tunis,Zamalek,2,0,False,Home Win,2088.3,-13,Mediterranean,H,H
+2023-03-03,2022/23,CAF Champions League,Group Stage,Wydad Casablanca,AS Vita Club,1,0,False,Home Win,4854.4,-264,Mediterranean,H,H
+2023-03-04,2022/23,CAF Champions League,Group Stage,Al Ahly,Cotonsport,3,0,False,Home Win,2902.2,-335,Arid,H,H
+2023-03-07,2022/23,CAF Champions League,Group Stage,Zamalek,Esperance de Tunis,3,1,False,Home Win,2088.3,13,Arid,H,H
+2023-03-07,2022/23,CAF Champions League,Group Stage,CR Belouizdad,Al Merreikh,1,0,False,Home Win,3745.0,44,Mediterranean,H,H
+2023-03-07,2022/23,CAF Champions League,Group Stage,Al Hilal,Cotonsport,2,0,False,Home Win,2096.4,22,Arid,H,H
+2023-03-07,2022/23,CAF Champions League,Group Stage,Horoya AC,Raja Casablanca,1,3,False,Away Win,2730.7,-26,Tropical,A,A
+2023-03-07,2022/23,CAF Champions League,Group Stage,Simba SC,Vipers,1,0,False,Home Win,1082.0,-1145,Tropical,H,H
+2023-03-11,2022/23,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Ahly,5,2,False,Home Win,6214.2,1317,Semi-Arid,H,H
+2023-03-11,2022/23,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,0,2,False,Away Win,5203.8,4,Tropical,A,A
+2023-03-11,2022/23,CAF Champions League,Group Stage,JS Kabylie,AS Vita Club,2,1,False,Home Win,4695.7,-70,Mediterranean,H,H
+2023-03-17,2022/23,CAF Champions League,Group Stage,Al Merreikh,Esperance de Tunis,1,1,False,Draw,3238.7,370,Arid,D,D
+2023-03-17,2022/23,CAF Champions League,Group Stage,CR Belouizdad,Zamalek,2,0,False,Home Win,2706.6,401,Mediterranean,H,H
+2023-03-17,2022/23,CAF Champions League,Group Stage,Cotonsport,Al Ahly,0,4,False,Away Win,2902.2,335,Tropical,A,A
+2023-03-18,2022/23,CAF Champions League,Group Stage,Vipers,Raja Casablanca,1,1,False,Draw,5583.0,1144,Tropical,D,D
+2023-03-18,2022/23,CAF Champions League,Group Stage,Simba SC,Horoya AC,7,0,False,Home Win,6126.0,25,Tropical,H,H
+2023-03-18,2022/23,CAF Champions League,Group Stage,AS Vita Club,Wydad Casablanca,0,0,False,Draw,4854.4,264,Tropical,D,D
+2023-03-18,2022/23,CAF Champions League,Group Stage,JS Kabylie,Petro de Luanda,1,0,False,Home Win,5142.7,190,Mediterranean,H,H
+2023-03-18,2022/23,CAF Champions League,Group Stage,Al Hilal,Mamelodi Sundowns,1,1,False,Draw,4610.5,-960,Arid,D,D
+2023-03-31,2022/23,CAF Champions League,Group Stage,Horoya AC,Vipers,2,0,False,Home Win,5210.0,-1170,Tropical,H,H
+2023-03-31,2022/23,CAF Champions League,Group Stage,Zamalek,Al Merreikh,4,3,False,Home Win,1624.7,-357,Arid,H,H
+2023-04-01,2022/23,CAF Champions League,Group Stage,Raja Casablanca,Simba SC,3,1,False,Home Win,6664.6,1,Mediterranean,H,H
+2023-04-01,2022/23,CAF Champions League,Group Stage,Mamelodi Sundowns,Cotonsport,2,1,False,Home Win,4177.7,982,Semi-Arid,H,H
+2023-04-01,2022/23,CAF Champions League,Group Stage,Esperance de Tunis,CR Belouizdad,0,0,False,Draw,631.8,-414,Mediterranean,D,D
+2023-04-01,2022/23,CAF Champions League,Group Stage,Wydad Casablanca,JS Kabylie,3,0,False,Home Win,1163.2,-194,Mediterranean,H,H
+2023-04-01,2022/23,CAF Champions League,Group Stage,Petro de Luanda,AS Vita Club,1,0,False,Home Win,551.4,-260,Tropical,H,H
+2023-04-01,2022/23,CAF Champions League,Group Stage,Al Ahly,Al Hilal,3,0,False,Home Win,1624.7,-357,Arid,H,H
+2023-04-21,2022/23,CAF Champions League,Quarter-final,JS Kabylie,Esperance de Tunis,0,1,False,Away Win,494.8,240,Mediterranean,A,A
+2023-04-22,2022/23,CAF Champions League,Quarter-final,Simba SC,Wydad Casablanca,1,0,False,Home Win,6664.6,-1,Tropical,H,H
+2023-04-22,2022/23,CAF Champions League,Quarter-final,Al Ahly,Raja Casablanca,2,0,False,Home Win,3669.2,-33,Arid,H,H
+2023-04-22,2022/23,CAF Champions League,Quarter-final,CR Belouizdad,Mamelodi Sundowns,1,4,False,Away Win,7430.3,-916,Mediterranean,A,A
+2023-04-28,2022/23,CAF Champions League,Quarter-final,Wydad Casablanca,Simba SC,1,0,False,Home Win,6664.6,1,Mediterranean,H,H
+2023-04-29,2022/23,CAF Champions League,Quarter-final,Mamelodi Sundowns,CR Belouizdad,2,1,False,Home Win,7430.3,916,Semi-Arid,H,H
+2023-04-29,2022/23,CAF Champions League,Quarter-final,Esperance de Tunis,JS Kabylie,1,1,False,Draw,494.8,-240,Mediterranean,D,D
+2023-04-29,2022/23,CAF Champions League,Quarter-final,Raja Casablanca,Al Ahly,0,0,False,Draw,3669.2,33,Mediterranean,D,D
+2023-05-12,2022/23,CAF Champions League,Semi-final,Esperance de Tunis,Al Ahly,0,3,False,Away Win,2088.3,-13,Mediterranean,A,A
+2023-05-13,2022/23,CAF Champions League,Semi-final,Wydad Casablanca,Mamelodi Sundowns,0,0,False,Draw,7604.6,-1284,Mediterranean,D,D
+2023-05-19,2022/23,CAF Champions League,Semi-final,Al Ahly,Esperance de Tunis,1,0,False,Home Win,2088.3,13,Arid,H,H
+2023-05-20,2022/23,CAF Champions League,Semi-final,Mamelodi Sundowns,Wydad Casablanca,2,2,False,Draw,7604.6,1284,Semi-Arid,D,D
+2023-06-04,2022/23,CAF Champions League,Final,Al Ahly,Wydad Casablanca,2,1,False,Home Win,3669.2,-33,Arid,H,H
+2023-06-11,2022/23,CAF Champions League,Final,Wydad Casablanca,Al Ahly,1,1,False,Draw,3669.2,33,Mediterranean,D,D
+2023-11-24,2023/24,CAF Champions League,Group Stage,Mamelodi Sundowns,FC Nouadhibou,3,0,False,Home Win,7126.7,1335,Semi-Arid,H,H
+2023-11-24,2023/24,CAF Champions League,Group Stage,TP Mazembe,Pyramids,1,0,False,Home Win,4651.1,1227,Tropical,H,H
+2023-11-24,2023/24,CAF Champions League,Group Stage,ASEC Mimosas,Jwaneng Galaxy,3,0,False,Home Win,4557.2,-1080,Tropical,H,H
+2023-11-24,2023/24,CAF Champions League,Group Stage,Petro de Luanda,Al Hilal,1,0,False,Home Win,3443.2,-320,Tropical,H,H
+2023-11-24,2023/24,CAF Champions League,Group Stage,Al Ahly,Young Africans,1,0,False,Home Win,4185.2,-32,Arid,H,H
+2023-11-25,2023/24,CAF Champions League,Group Stage,Esperance de Tunis,Etoile du Sahel,2,0,False,Home Win,116.5,-10,Mediterranean,H,H
+2023-11-25,2023/24,CAF Champions League,Group Stage,Medeama,CR Belouizdad,2,1,False,Home Win,3563.3,-354,Tropical,H,H
+2023-11-25,2023/24,CAF Champions League,Group Stage,Simba SC,Wydad Casablanca,2,0,False,Home Win,6664.6,-1,Tropical,H,H
+2023-12-01,2023/24,CAF Champions League,Group Stage,Pyramids,Mamelodi Sundowns,0,1,False,Away Win,6208.4,-1317,Arid,A,A
+2023-12-01,2023/24,CAF Champions League,Group Stage,Jwaneng Galaxy,Simba SC,0,6,False,Away Win,2509.8,1045,Semi-Arid,A,A
+2023-12-01,2023/24,CAF Champions League,Group Stage,Etoile du Sahel,Petro de Luanda,0,2,False,Away Win,4973.6,-40,Mediterranean,A,A
+2023-12-01,2023/24,CAF Champions League,Group Stage,CR Belouizdad,Al Ahly,0,0,False,Draw,2706.6,401,Mediterranean,D,D
+2023-12-02,2023/24,CAF Champions League,Group Stage,Young Africans,Medeama,3,0,False,Home Win,4731.0,-15,Tropical,H,H
+2023-12-02,2023/24,CAF Champions League,Group Stage,FC Nouadhibou,TP Mazembe,0,0,False,Draw,6065.1,-1245,Arid,D,D
+2023-12-02,2023/24,CAF Champions League,Group Stage,Wydad Casablanca,ASEC Mimosas,1,0,False,Home Win,3160.1,36,Mediterranean,H,H
+2023-12-02,2023/24,CAF Champions League,Group Stage,Al Hilal,Esperance de Tunis,3,1,False,Home Win,3238.7,370,Arid,H,H
+2023-12-08,2023/24,CAF Champions League,Group Stage,Al Hilal,Etoile du Sahel,1,1,False,Draw,3136.6,360,Arid,D,D
+2023-12-08,2023/24,CAF Champions League,Group Stage,CR Belouizdad,Young Africans,3,0,False,Home Win,6127.6,369,Mediterranean,H,H
+2023-12-08,2023/24,CAF Champions League,Group Stage,FC Nouadhibou,Pyramids,2,0,False,Home Win,4911.2,-18,Arid,H,H
+2023-12-08,2023/24,CAF Champions League,Group Stage,Wydad Casablanca,Jwaneng Galaxy,0,1,False,Away Win,7316.4,-1044,Mediterranean,A,A
+2023-12-09,2023/24,CAF Champions League,Group Stage,Mamelodi Sundowns,TP Mazembe,1,0,False,Home Win,1568.4,90,Semi-Arid,H,H
+2023-12-09,2023/24,CAF Champions League,Group Stage,ASEC Mimosas,Simba SC,0,0,False,Draw,4983.2,-35,Tropical,D,D
+2023-12-09,2023/24,CAF Champions League,Group Stage,Petro de Luanda,Esperance de Tunis,0,0,False,Draw,5085.3,50,Tropical,D,D
+2023-12-09,2023/24,CAF Champions League,Group Stage,Al Ahly,Medeama,3,0,False,Home Win,4440.8,-47,Arid,H,H
+2023-12-19,2023/24,CAF Champions League,Group Stage,Etoile du Sahel,Al Hilal,1,0,False,Home Win,3136.6,-360,Mediterranean,H,H
+2023-12-19,2023/24,CAF Champions League,Group Stage,Jwaneng Galaxy,Wydad Casablanca,0,0,False,Draw,7316.4,1044,Semi-Arid,D,D
+2023-12-19,2023/24,CAF Champions League,Group Stage,Esperance de Tunis,Petro de Luanda,2,0,False,Home Win,5085.3,-50,Mediterranean,H,H
+2023-12-19,2023/24,CAF Champions League,Group Stage,Pyramids,Mamelodi Sundowns,0,0,False,Draw,6208.4,-1317,Arid,D,D
+2023-12-19,2023/24,CAF Champions League,Group Stage,TP Mazembe,FC Nouadhibou,2,0,False,Home Win,6065.1,1245,Tropical,H,H
+2023-12-19,2023/24,CAF Champions League,Group Stage,Simba SC,ASEC Mimosas,1,1,False,Draw,4983.2,35,Tropical,D,D
+2024-02-16,2023/24,CAF Champions League,Group Stage,CR Belouizdad,Al Ahly,0,0,False,Draw,2706.6,401,Mediterranean,D,D
+2024-02-23,2023/24,CAF Champions League,Group Stage,FC Nouadhibou,Mamelodi Sundowns,0,2,False,Away Win,7126.7,-1335,Arid,A,A
+2024-02-23,2023/24,CAF Champions League,Group Stage,Pyramids,TP Mazembe,1,0,False,Home Win,4651.1,-1227,Arid,H,H
+2024-02-23,2023/24,CAF Champions League,Group Stage,ASEC Mimosas,Wydad Casablanca,1,0,False,Home Win,3160.1,-36,Tropical,H,H
+2024-02-23,2023/24,CAF Champions League,Group Stage,Simba SC,Jwaneng Galaxy,0,0,False,Draw,2509.8,-1045,Tropical,D,D
+2024-02-23,2023/24,CAF Champions League,Group Stage,Al Hilal,Petro de Luanda,0,0,False,Draw,3443.2,320,Arid,D,D
+2024-02-23,2023/24,CAF Champions League,Group Stage,Etoile du Sahel,Esperance de Tunis,0,2,False,Away Win,116.5,10,Mediterranean,A,A
+2024-02-23,2023/24,CAF Champions League,Group Stage,Young Africans,CR Belouizdad,4,0,False,Home Win,6127.6,-369,Tropical,H,H
+2024-02-23,2023/24,CAF Champions League,Group Stage,Al Ahly,CR Belouizdad,0,0,False,Draw,2706.6,-401,Arid,D,D
+2024-03-01,2023/24,CAF Champions League,Group Stage,Medeama,Young Africans,1,1,False,Draw,4731.0,15,Tropical,D,D
+2024-03-01,2023/24,CAF Champions League,Group Stage,Petro de Luanda,Etoile du Sahel,2,0,False,Home Win,4973.6,40,Tropical,H,H
+2024-03-01,2023/24,CAF Champions League,Group Stage,Young Africans,Al Ahly,1,1,False,Draw,4185.2,32,Tropical,D,D
+2024-03-01,2023/24,CAF Champions League,Group Stage,Mamelodi Sundowns,Pyramids,0,1,False,Away Win,6208.4,1317,Semi-Arid,A,A
+2024-03-01,2023/24,CAF Champions League,Group Stage,Wydad Casablanca,Simba SC,1,0,False,Home Win,6664.6,1,Mediterranean,H,H
+2024-03-02,2023/24,CAF Champions League,Group Stage,Al Ahly,Young Africans,1,0,False,Home Win,4185.2,-32,Arid,H,H
+2024-03-02,2023/24,CAF Champions League,Group Stage,Esperance de Tunis,Al Hilal,1,0,False,Home Win,3238.7,-370,Mediterranean,H,H
+2024-03-02,2023/24,CAF Champions League,Group Stage,TP Mazembe,Mamelodi Sundowns,3,0,False,Home Win,1568.4,-90,Tropical,H,H
+2024-03-02,2023/24,CAF Champions League,Group Stage,Jwaneng Galaxy,ASEC Mimosas,0,2,False,Away Win,4557.2,1080,Semi-Arid,A,A
+2024-03-29,2023/24,CAF Champions League,Quarter-final,Simba SC,Al Ahly,0,1,False,Away Win,4185.2,32,Tropical,A,A
+2024-03-29,2023/24,CAF Champions League,Quarter-final,TP Mazembe,Petro de Luanda,0,0,False,Draw,1589.7,1190,Tropical,D,D
+2024-03-30,2023/24,CAF Champions League,Quarter-final,Esperance de Tunis,ASEC Mimosas,0,0,False,Draw,3784.8,-10,Mediterranean,D,D
+2024-03-30,2023/24,CAF Champions League,Quarter-final,Young Africans,Mamelodi Sundowns,0,0,False,Draw,2408.3,-1285,Tropical,D,D
+2024-04-05,2023/24,CAF Champions League,Quarter-final,Al Ahly,Simba SC,2,0,False,Home Win,4185.2,-32,Arid,H,H
+2024-04-05,2023/24,CAF Champions League,Quarter-final,ASEC Mimosas,Esperance de Tunis,0,0,False,Draw,3784.8,10,Tropical,D,D
+2024-04-05,2023/24,CAF Champions League,Quarter-final,Mamelodi Sundowns,Young Africans,0,0,False,Draw,2408.3,1285,Semi-Arid,D,D
+2024-04-06,2023/24,CAF Champions League,Quarter-final,Petro de Luanda,TP Mazembe,1,2,False,Away Win,1589.7,-1190,Tropical,A,A
+2024-04-20,2023/24,CAF Champions League,Semi-final,TP Mazembe,Al Ahly,0,0,False,Draw,4657.0,1227,Tropical,D,D
+2024-04-20,2023/24,CAF Champions League,Semi-final,Esperance de Tunis,Mamelodi Sundowns,1,0,False,Home Win,7207.9,-1330,Mediterranean,H,H
+2024-04-26,2023/24,CAF Champions League,Semi-final,Mamelodi Sundowns,Esperance de Tunis,0,1,False,Away Win,7207.9,1330,Semi-Arid,A,A
+2024-04-26,2023/24,CAF Champions League,Semi-final,Al Ahly,TP Mazembe,3,0,False,Home Win,4657.0,-1227,Arid,H,H
+2024-05-18,2023/24,CAF Champions League,Final,Esperance de Tunis,Al Ahly,0,0,False,Draw,2088.3,-13,Mediterranean,D,D
+2024-05-25,2023/24,CAF Champions League,Final,Al Ahly,Esperance de Tunis,1,0,False,Home Win,2088.3,13,Arid,H,H
+2024-11-26,2024/25,CAF Champions League,Group Stage,Esperance de Tunis,Sagrada Esperanca,4,1,False,Home Win,5314.6,-1340,Mediterranean,H,H
+2024-11-26,2024/25,CAF Champions League,Group Stage,Al Hilal,MC Alger,1,1,False,Draw,3745.0,-44,Arid,D,D
+2024-11-26,2024/25,CAF Champions League,Group Stage,Young Africans,TP Mazembe,1,1,False,Draw,1396.1,-1195,Tropical,D,D
+2024-11-26,2024/25,CAF Champions League,Group Stage,AS FAR,Mamelodi Sundowns,1,1,False,Draw,7602.8,-845,Mediterranean,D,D
+2024-11-26,2024/25,CAF Champions League,Group Stage,Orlando Pirates,Stade d'Abidjan,3,0,False,Home Win,4924.1,1733,Semi-Arid,H,H
+2024-11-27,2024/25,CAF Champions League,Group Stage,Al Ahly,CR Belouizdad,6,1,False,Home Win,2706.6,-401,Arid,H,H
+2024-11-27,2024/25,CAF Champions League,Group Stage,Pyramids,Djoliba,6,0,False,Home Win,4466.9,-347,Arid,H,H
+2024-11-27,2024/25,CAF Champions League,Group Stage,AS FAR,Raja Casablanca,1,1,False,Draw,81.5,439,Mediterranean,D,D
+2024-12-06,2024/25,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,4,0,False,Home Win,3071.6,870,Tropical,H,H
+2024-12-06,2024/25,CAF Champions League,Group Stage,Raja Casablanca,Mamelodi Sundowns,1,0,False,Home Win,7604.6,-1284,Mediterranean,H,H
+2024-12-06,2024/25,CAF Champions League,Group Stage,CR Belouizdad,Orlando Pirates,1,2,False,Away Win,7470.7,-1329,Mediterranean,A,A
+2024-12-06,2024/25,CAF Champions League,Group Stage,Sagrada Esperanca,Pyramids,0,1,False,Away Win,4827.4,1327,Tropical,A,A
+2024-12-07,2024/25,CAF Champions League,Group Stage,MC Alger,Young Africans,2,0,False,Home Win,6127.6,369,Mediterranean,H,H
+2024-12-07,2024/25,CAF Champions League,Group Stage,Mamelodi Sundowns,AS FAR,1,1,False,Draw,7602.8,845,Semi-Arid,D,D
+2024-12-07,2024/25,CAF Champions League,Group Stage,Stade d'Abidjan,Al Ahly,1,3,False,Away Win,4602.0,-3,Tropical,A,A
+2024-12-07,2024/25,CAF Champions League,Group Stage,Djoliba,Esperance de Tunis,0,1,False,Away Win,3241.5,360,Semi-Arid,A,A
+2024-12-13,2024/25,CAF Champions League,Group Stage,Orlando Pirates,CR Belouizdad,2,1,False,Home Win,7470.7,1329,Semi-Arid,H,H
+2024-12-13,2024/25,CAF Champions League,Group Stage,Esperance de Tunis,Djoliba,4,0,False,Home Win,3241.5,-360,Mediterranean,H,H
+2024-12-13,2024/25,CAF Champions League,Group Stage,Mamelodi Sundowns,Raja Casablanca,1,0,False,Home Win,7604.6,1284,Semi-Arid,H,H
+2024-12-13,2024/25,CAF Champions League,Group Stage,MC Alger,TP Mazembe,1,0,False,Home Win,5956.3,-826,Mediterranean,H,H
+2024-12-14,2024/25,CAF Champions League,Group Stage,Young Africans,Al Hilal,0,2,False,Away Win,2584.8,-325,Tropical,A,A
+2024-12-14,2024/25,CAF Champions League,Group Stage,AS FAR,AS Maniema Union,2,0,False,Home Win,5326.8,-5,Mediterranean,H,H
+2024-12-14,2024/25,CAF Champions League,Group Stage,Stade d'Abidjan,CR Belouizdad,0,6,False,Away Win,3564.5,-404,Tropical,A,A
+2024-12-14,2024/25,CAF Champions League,Group Stage,Pyramids,Sagrada Esperanca,5,1,False,Home Win,4827.4,-1327,Arid,H,H
+2025-01-03,2024/25,CAF Champions League,Group Stage,Al Hilal,Young Africans,2,1,False,Home Win,2584.8,325,Arid,H,H
+2025-01-03,2024/25,CAF Champions League,Group Stage,AS Maniema Union,AS FAR,1,1,False,Draw,5326.8,5,Tropical,D,D
+2025-01-03,2024/25,CAF Champions League,Group Stage,CR Belouizdad,Stade d'Abidjan,0,1,False,Away Win,3564.5,404,Mediterranean,A,A
+2025-01-03,2024/25,CAF Champions League,Group Stage,Sagrada Esperanca,Esperance de Tunis,0,0,False,Draw,5314.6,1340,Tropical,D,D
+2025-01-04,2024/25,CAF Champions League,Group Stage,Djoliba,Pyramids,0,0,False,Draw,4466.9,347,Semi-Arid,D,D
+2025-01-04,2024/25,CAF Champions League,Group Stage,Al Ahly,Orlando Pirates,1,2,False,Away Win,6265.9,-1730,Arid,A,A
+2025-01-04,2024/25,CAF Champions League,Group Stage,Raja Casablanca,AS Maniema Union,1,0,False,Home Win,5347.6,-444,Mediterranean,H,H
+2025-01-04,2024/25,CAF Champions League,Group Stage,TP Mazembe,MC Alger,0,0,False,Draw,5956.3,826,Tropical,D,D
+2025-01-10,2024/25,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,0,1,False,Away Win,3071.6,-870,Arid,A,A
+2025-01-10,2024/25,CAF Champions League,Group Stage,AS Maniema Union,Mamelodi Sundowns,1,2,False,Away Win,2594.4,-840,Tropical,A,A
+2025-01-10,2024/25,CAF Champions League,Group Stage,Al Ahly,Stade d'Abidjan,4,2,False,Home Win,4602.0,3,Arid,H,H
+2025-01-10,2024/25,CAF Champions League,Group Stage,Sagrada Esperanca,Djoliba,1,0,False,Home Win,3678.7,980,Tropical,H,H
+2025-01-11,2024/25,CAF Champions League,Group Stage,Young Africans,MC Alger,0,0,False,Draw,6127.6,-369,Tropical,D,D
+2025-01-11,2024/25,CAF Champions League,Group Stage,Raja Casablanca,AS FAR,0,2,False,Away Win,81.5,-439,Mediterranean,A,A
+2025-01-11,2024/25,CAF Champions League,Group Stage,Orlando Pirates,Al Ahly,2,1,False,Home Win,6265.9,1730,Semi-Arid,H,H
+2025-01-11,2024/25,CAF Champions League,Group Stage,Pyramids,Esperance de Tunis,2,1,False,Home Win,2087.3,13,Arid,H,H
+2025-01-17,2024/25,CAF Champions League,Group Stage,Esperance de Tunis,Pyramids,2,0,False,Home Win,2087.3,-13,Mediterranean,H,H
+2025-01-17,2024/25,CAF Champions League,Group Stage,CR Belouizdad,Al Ahly,1,0,False,Home Win,2706.6,401,Mediterranean,H,H
+2025-01-17,2024/25,CAF Champions League,Group Stage,Mamelodi Sundowns,AS Maniema Union,0,0,False,Draw,2594.4,840,Semi-Arid,D,D
+2025-01-17,2024/25,CAF Champions League,Group Stage,MC Alger,Al Hilal,0,1,False,Away Win,3745.0,44,Mediterranean,A,A
+2025-01-18,2024/25,CAF Champions League,Group Stage,TP Mazembe,Young Africans,1,3,False,Away Win,1396.1,1195,Tropical,A,A
+2025-01-18,2024/25,CAF Champions League,Group Stage,AS FAR,Raja Casablanca,1,0,False,Home Win,81.5,439,Mediterranean,H,H
+2025-01-18,2024/25,CAF Champions League,Group Stage,Stade d'Abidjan,Orlando Pirates,1,1,False,Draw,4924.1,-1733,Tropical,D,D
+2025-01-18,2024/25,CAF Champions League,Group Stage,Djoliba,Sagrada Esperanca,0,0,False,Draw,3678.7,-980,Semi-Arid,D,D
+2025-04-01,2024/25,CAF Champions League,Quarter-final,Al Ahly,Al Hilal,1,0,False,Home Win,1624.7,-357,Arid,H,H
+2025-04-01,2024/25,CAF Champions League,Quarter-final,Pyramids,AS FAR,4,1,False,Home Win,3595.6,-472,Arid,H,H
+2025-04-01,2024/25,CAF Champions League,Quarter-final,Mamelodi Sundowns,Esperance de Tunis,1,0,False,Home Win,7207.9,1330,Semi-Arid,H,H
+2025-04-02,2024/25,CAF Champions League,Quarter-final,MC Alger,Orlando Pirates,0,1,False,Away Win,7470.7,-1329,Mediterranean,A,A
+2025-04-08,2024/25,CAF Champions League,Quarter-final,Esperance de Tunis,Mamelodi Sundowns,0,0,False,Draw,7207.9,-1330,Mediterranean,D,D
+2025-04-08,2024/25,CAF Champions League,Quarter-final,Al Hilal,Al Ahly,0,1,False,Away Win,1624.7,357,Arid,A,A
+2025-04-09,2024/25,CAF Champions League,Quarter-final,AS FAR,Pyramids,2,0,False,Home Win,3595.6,472,Mediterranean,H,H
+2025-04-09,2024/25,CAF Champions League,Quarter-final,Orlando Pirates,MC Alger,0,0,False,Draw,7470.7,1329,Semi-Arid,D,D
+2025-04-18,2024/25,CAF Champions League,Semi-final,Mamelodi Sundowns,Al Ahly,0,0,False,Draw,6214.2,1317,Semi-Arid,D,D
+2025-04-18,2024/25,CAF Champions League,Semi-final,Orlando Pirates,Pyramids,0,0,False,Draw,6260.1,1730,Semi-Arid,D,D
+2025-04-25,2024/25,CAF Champions League,Semi-final,Al Ahly,Mamelodi Sundowns,1,1,False,Draw,6214.2,-1317,Arid,D,D
+2025-04-26,2024/25,CAF Champions League,Semi-final,Pyramids,Orlando Pirates,3,2,False,Home Win,6260.1,-1730,Arid,H,H
+2025-05-24,2024/25,CAF Champions League,Final,Mamelodi Sundowns,Pyramids,1,1,False,Draw,6208.4,1317,Semi-Arid,D,D
+2025-06-01,2024/25,CAF Champions League,Final,Pyramids,Mamelodi Sundowns,2,1,False,Home Win,6208.4,-1317,Arid,H,H
+2025-11-21,2025/26,CAF Champions League,Group Stage,Al Hilal,MC Alger,2,1,False,Home Win,3745.0,-44,Arid,H,H
+2025-11-22,2025/26,CAF Champions League,Group Stage,RSB Berkane,Power Dynamos,3,0,False,Home Win,6206.5,-850,Semi-Arid,H,H
+2025-11-22,2025/26,CAF Champions League,Group Stage,Pyramids,Rivers United,3,0,False,Home Win,3777.9,3,Arid,H,H
+2025-11-22,2025/26,CAF Champions League,Group Stage,Esperance de Tunis,Stade Malien,0,0,False,Draw,3241.5,-360,Mediterranean,D,D
+2025-11-22,2025/26,CAF Champions League,Group Stage,Mamelodi Sundowns,Saint-Eloi Lupopo,3,1,False,Home Win,1568.4,90,Semi-Arid,H,H
+2025-11-22,2025/26,CAF Champions League,Group Stage,Young Africans,AS FAR,1,0,False,Home Win,6632.2,-440,Tropical,H,H
+2025-11-22,2025/26,CAF Champions League,Group Stage,Al Ahly,JS Kabylie,4,1,False,Home Win,2570.0,-227,Arid,H,H
+2025-11-23,2025/26,CAF Champions League,Group Stage,Simba SC,Petro de Luanda,0,1,False,Away Win,2869.7,-5,Tropical,A,A
+2025-11-28,2025/26,CAF Champions League,Group Stage,AS FAR,Al Ahly,1,1,False,Draw,3597.7,472,Mediterranean,D,D
+2025-11-28,2025/26,CAF Champions League,Group Stage,JS Kabylie,Young Africans,0,0,False,Draw,6027.9,195,Mediterranean,D,D
+2025-11-28,2025/26,CAF Champions League,Group Stage,Rivers United,RSB Berkane,1,2,False,Away Win,3483.4,-410,Tropical,A,A
+2025-11-28,2025/26,CAF Champions League,Group Stage,MC Alger,Mamelodi Sundowns,0,0,False,Draw,7430.3,-916,Mediterranean,D,D
+2025-11-29,2025/26,CAF Champions League,Group Stage,Petro de Luanda,Esperance de Tunis,1,1,False,Draw,5085.3,50,Tropical,D,D
+2025-11-29,2025/26,CAF Champions League,Group Stage,Power Dynamos,Pyramids,0,1,False,Away Win,4771.6,1257,Tropical,A,A
+2025-11-30,2025/26,CAF Champions League,Group Stage,Saint-Eloi Lupopo,Al Hilal,1,1,False,Draw,3071.6,870,Tropical,D,D
+2025-11-30,2025/26,CAF Champions League,Group Stage,Stade Malien,Simba SC,2,1,False,Home Win,5646.4,315,Semi-Arid,H,H
