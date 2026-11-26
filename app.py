@@ -333,14 +333,8 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://predictor-ai.netlify.app"],
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-app.add_middleware(
-    CORSMiddleware,
     allow_origins=[
+        "https://predictor-ai.netlify.app",
         "http://localhost",
         "http://127.0.0.1",
         "http://localhost:80",
